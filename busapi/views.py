@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from django.http import JsonResponse
+from django.views.decorators.http import require_GET
 import pandas as pd
 from .models import bus_arrival_past
 from .ml_train import train_model_and_save
@@ -37,7 +38,7 @@ def predict_seat(request):
 
     # 3) 예측
     try:
-        pred = predict_remaining_seats(routeid_int, routeid_int)
+        predications = predict_remaining_seats(routeid_int, routeid_int)
     except Exception as e:
         return JsonResponse(
             {"ok": False, "error": f"prediction error: {e}"},
@@ -46,6 +47,9 @@ def predict_seat(request):
 
 
     data = {
+        "routeid": routeid,
+        "select_time": select_time,
+        "predications": predications, #list 형태
 
     }
-    return JsonResponse(data)
+    return JsonResponse(data, status=200)
