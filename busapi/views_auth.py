@@ -26,7 +26,17 @@ def signup(request):
 
         user = User.objects.create_user(username=username, password=password)
 
-        return JsonResponse({"message": "회원가입 완료", "username": user.username}, status=201)
+        # 프론트가 기대하는 형태로 응답
+        return JsonResponse({
+            "message": "회원가입 완료",
+            "username": user.username,
+            "user": {
+                "id": user.id,
+                "username": user.username,
+                "email": user.username,
+                "name": user.username,
+            }
+        }, status=201)
 
     except Exception as e:
         print("signup error:", e)
@@ -35,7 +45,7 @@ def signup(request):
 
 @csrf_exempt
 def login_view(request):
-    """로그인 (세션 생성)"""
+    """로그인"""
     if request.method != "POST":
         return JsonResponse({"error": "POST만 지원합니다."}, status=405)
 
@@ -51,13 +61,20 @@ def login_view(request):
         if user is None:
             return JsonResponse({"error": "아이디 또는 비밀번호가 올바르지 않습니다."}, status=400)
 
-        # 세션 생성
+        # Django 세션 생성
         login(request, user)
 
-        return JsonResponse(
-            {"message": "로그인 성공", "username": user.username},
-            status=200
-        )
+        # 프론트가 기대하는 JSON 구조로 응답
+        return JsonResponse({
+            "message": "로그인 성공",
+            "username": user.username,
+            "user": {
+                "id": user.id,
+                "username": user.username,
+                "email": user.username,
+                "name": user.username,
+            }
+        }, status=200)
 
     except Exception as e:
         print("login error:", e)
@@ -66,7 +83,7 @@ def login_view(request):
 
 @csrf_exempt
 def logout_view(request):
-    """로그아웃 (세션 삭제)"""
+    """로그아웃"""
     if request.method != "POST":
         return JsonResponse({"error": "POST만 지원합니다."}, status=405)
 
@@ -75,11 +92,11 @@ def logout_view(request):
 
 
 def current_user(request):
-    """현재 로그인된 사용자 정보 조회 (프론트가 앱 시작할 때 사용)"""
+    """현재 사용자 정보 조회"""
     if request.user.is_authenticated:
         return JsonResponse({
             "is_authenticated": True,
-            "username": request.user.username
+            "username": request.user.username,
         })
     else:
         return JsonResponse({"is_authenticated": False})
