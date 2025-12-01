@@ -47,6 +47,9 @@ def predict_seat(request):
     try:
         predictions = predict_remaining_seats(routeid_int, select_time_int)
     except Exception as e:
+        import traceback
+        print('error during prediction')
+        print(traceback.format_exc())
         return JsonResponse(
             {"error": f"prediction error: {e}"},
             status=500,

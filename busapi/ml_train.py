@@ -6,7 +6,7 @@
 
 import os
 from pathlib import Path
-
+from math import sqrt
 import joblib
 import pandas as pd
 from django.conf import settings
@@ -114,7 +114,8 @@ def train_model_and_save(
     model.fit(X, y)
 
     y_pred = model.predict(X)
-    rmse = mean_squared_error(y, y_pred, squared=False)
+    mse = mean_squared_error(y, y_pred)
+    rmse = sqrt(mse)
     print(f"[train RMSE] {rmse:.3f}")
 
     payload = {

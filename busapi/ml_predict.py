@@ -60,7 +60,7 @@ def _slot_index_to_center_min(slot_index: int) -> int:
 
 def predict_remaining_seats(routeid: int, slot_index: int) -> List[Dict]:
     """
-    routeid와 slot_index(0~7)를 기반으로
+    routeid와 slot_index(0~6)를 기반으로
     해당 노선의 모든 station_num 잔여좌석 예측값 반환.
 
     Args:
