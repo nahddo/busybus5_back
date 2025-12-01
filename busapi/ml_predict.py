@@ -33,7 +33,7 @@ def _load_model_payload(model_path: str = "bus_model.pkl"):
 
 def _slot_index_to_center_min(slot_index: int) -> int:
     """
-    slot_index (0~7) → slot_center_min 변환
+    slot_index (0~6) → slot_center_min 변환
 
     기준:
         0 → 06:00 → 360
@@ -48,10 +48,10 @@ def _slot_index_to_center_min(slot_index: int) -> int:
         slot_center_min: 분 단위로 변환된 시간 (예: 360 = 06:00)
 
     Raises:
-        ValueError: slot_index가 0~7 범위를 벗어난 경우
+        ValueError: slot_index가 0~6 범위를 벗어난 경우
     """
-    if not 0 <= slot_index <= 7:
-        raise ValueError("slot_index는 0~7이어야 합니다.")
+    if not 0 <= slot_index <= 6:
+        raise ValueError("slot_index는 0~6이어야 합니다.")
 
     start_min = 5 * 60 + 45  # 345 = 05:45
     slot_center_min = start_min + (slot_index * 30) + 15
@@ -108,7 +108,7 @@ def predict_remaining_seats(routeid: int, slot_index: int) -> List[Dict]:
     # 4) 모델 예측
     df_pred["y_pred"] = model.predict(X)
 
-    # 5) 반환 형태 맞추기
+    # 5) 반환 형태
     results: List[Dict] = []
     for _, row in df_pred.iterrows():
         results.append(

@@ -4,6 +4,7 @@ from django.views.decorators.http import require_GET
 from django.views.decorators.csrf import csrf_exempt
 import pandas as pd
 from .models import bus_arrival_past
+from django.contrib.auth.decorators import user_passes_test
 
 try:
     from .ml_train import train_model_and_save
@@ -16,57 +17,97 @@ except ImportError:
     def predict_remaining_seats(routeid_int, select_time_int):
         return []
 
-
-def train_from_db():
-    # db(bus_arrival_past)에서 훈련 데이터를 가져와 학습함수에 전달
-    qs = bus_arrival_past.objects.all()
-    df = pd.DataFrame(list(qs.values()))
-    # train_model_and_save(df)
-
-
+@user_passes_test(lambda u: u.is_superuser)
 def run_training(request):
-    train_from_db()
-    return JsonResponse({"ok": True, "message": "Model training completed"})
-
+    try:
+        rmse = train_model_and_save()  # 모델 학습
+        return JsonResponse({"ok": True, "rmse": rmse})
+    except Exception as e:
+        return JsonResponse({"ok": False, "error": str(e)}, status=500)
 
 def predict_seat(request):
+    # 1) GET 파라미터 검증
     routeid = request.GET.get("routeid")
     select_time = request.GET.get("select_time")
 
     if not routeid or not select_time:
         return JsonResponse(
             {"error": "routeid, select_time 파라미터가 필요합니다."},
-            status=400,
+            status=400
         )
 
+    # 2) 정수 변환
     try:
         routeid_int = int(routeid)
         select_time_int = int(select_time)
     except ValueError:
         return JsonResponse(
-            {"error": "routeid와 select_time은 정수여야 합니다."},
-            status=400,
+            {"error": "routeid, select_time는 정수여야 합니다."},
+            status=400
         )
 
-    try:
-        predictions = predict_remaining_seats(routeid_int, select_time_int)
-    except Exception as e:
-        return JsonResponse(
-            {"error": f"prediction error: {e}"},
-            status=500,
-        )
+    # 3) 임시 Fake Prediction 데이터 (UI 테스트용)
+    predictions = [
+        {"routeid": routeid_int, "station_num": "1", "slot_index": select_time_int, "remainseat_pred": 44},
+        {"routeid": routeid_int, "station_num": "2", "slot_index": select_time_int, "remainseat_pred": 43},
+        {"routeid": routeid_int, "station_num": "3", "slot_index": select_time_int, "remainseat_pred": 36},
+        {"routeid": routeid_int, "station_num": "4", "slot_index": select_time_int, "remainseat_pred": 24},
+        {"routeid": routeid_int, "station_num": "5", "slot_index": select_time_int, "remainseat_pred": 12},
+        {"routeid": routeid_int, "station_num": "6", "slot_index": select_time_int, "remainseat_pred": 6},
+        {"routeid": routeid_int, "station_num": "7", "slot_index": select_time_int, "remainseat_pred": 0},
+        {"routeid": routeid_int, "station_num": "8", "slot_index": select_time_int, "remainseat_pred": 0},
+        {"routeid": routeid_int, "station_num": "9", "slot_index": select_time_int, "remainseat_pred": 0},
+        {"routeid": routeid_int, "station_num": "10", "slot_index": select_time_int, "remainseat_pred": 0},
+        {"routeid": routeid_int, "station_num": "11", "slot_index": select_time_int, "remainseat_pred": 0},
+        {"routeid": routeid_int, "station_num": "12", "slot_index": select_time_int, "remainseat_pred": 0},
+        {"routeid": routeid_int, "station_num": "13", "slot_index": select_time_int, "remainseat_pred": 0},
+        {"routeid": routeid_int, "station_num": "14", "slot_index": select_time_int, "remainseat_pred": 0},
+        {"routeid": routeid_int, "station_num": "15", "slot_index": select_time_int, "remainseat_pred": 0},
+        {"routeid": routeid_int, "station_num": "16", "slot_index": select_time_int, "remainseat_pred": 25},
+        {"routeid": routeid_int, "station_num": "17", "slot_index": select_time_int, "remainseat_pred": 25},
+        {"routeid": routeid_int, "station_num": "18", "slot_index": select_time_int, "remainseat_pred": 25},
+        {"routeid": routeid_int, "station_num": "19", "slot_index": select_time_int, "remainseat_pred": 25},
+        {"routeid": routeid_int, "station_num": "20", "slot_index": select_time_int, "remainseat_pred": 25},
+        {"routeid": routeid_int, "station_num": "21", "slot_index": select_time_int, "remainseat_pred": 36},
+        {"routeid": routeid_int, "station_num": "22", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "23", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "24", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "25", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "26", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "27", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "28", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "29", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "30", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "31", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "32", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "33", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "34", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "35", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "36", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "37", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "38", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "39", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "40", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "41", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "42", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "43", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "44", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "45", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "46", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "47", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "48", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "49", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "50", "slot_index": select_time_int, "remainseat_pred": 40},
+        {"routeid": routeid_int, "station_num": "51", "slot_index": select_time_int, "remainseat_pred": 40}
+    ]
 
-    # 프론트엔드 타입 정의와 일치하도록 응답 형식 조정
-    # PredictSeatResponse: { routeid, select_time, predictions, error? }
-    return JsonResponse(
-        {
-            "routeid": routeid_int,
-            "select_time": select_time_int,
-            "predictions": predictions,
-        },
-        status=200,
-    )
 
+
+    return JsonResponse({
+        "routeid": routeid_int,
+        "select_time": select_time_int,
+        "predictions": predictions
+    })
 
 @csrf_exempt
 @require_GET

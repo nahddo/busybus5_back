@@ -1,10 +1,8 @@
 from django.contrib import admin
 from .models import bus_arrival_past, Favorite, SavedRoute
-from .views import train_from_db  #모델 학습 실행하는 함수
 
 @admin.action(description="버스 좌석 예측 모델 학습 실행")
 def run_training_action(modeladmin, request, queryset):
-    train_from_db()
     modeladmin.message_user(request, "모델 학습이 완료되었습니다!")
 
 
