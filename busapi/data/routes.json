@@ -1,0 +1,7512 @@
+{
+  "218000005": [
+    {
+      "route_nm": "3200",
+      "sta_order": 1,
+      "station_id": "218000501",
+      "station_nm": "성사고등학교"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 2,
+      "station_id": "218000503",
+      "station_nm": "원당대림아파트"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 3,
+      "station_id": "218000504",
+      "station_nm": "세창짜임아파트"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 4,
+      "station_id": "218000093",
+      "station_nm": "어울림마을7단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 5,
+      "station_id": "218000104",
+      "station_nm": "성사2동행정복지센터"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 6,
+      "station_id": "218000103",
+      "station_nm": "고양어울림누리.달빛마을1단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 7,
+      "station_id": "218000102",
+      "station_nm": "화정1동행정복지센터"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 8,
+      "station_id": "218000101",
+      "station_nm": "명지병원.달빛마을3단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 9,
+      "station_id": "218000100",
+      "station_nm": "화정동단독주택단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 10,
+      "station_id": "218000099",
+      "station_nm": "화정역.덕양구청"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 11,
+      "station_id": "218000014",
+      "station_nm": "별빛마을8단지.롯데마트"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 12,
+      "station_id": "218000013",
+      "station_nm": "고양경찰서앞.고양어린이박물관"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 13,
+      "station_id": "218000039",
+      "station_nm": "토당고가.별빛마을9단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 14,
+      "station_id": "218000342",
+      "station_nm": "양우아파트.대곡역롯데캐슬"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 15,
+      "station_id": "218000197",
+      "station_nm": "능곡초교"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 16,
+      "station_id": "218000196",
+      "station_nm": "능곡시장"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 17,
+      "station_id": "218000520",
+      "station_nm": "능곡역"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 18,
+      "station_id": "218000081",
+      "station_nm": "행신동삼거리.무원마을10단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 19,
+      "station_id": "218000118",
+      "station_nm": "샘터마을2단지.신능중학교"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 20,
+      "station_id": "218000089",
+      "station_nm": "행신초등학교"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 21,
+      "station_id": "218000318",
+      "station_nm": "행신동(중)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 22,
+      "station_id": "218000517",
+      "station_nm": "서정마을입구"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 23,
+      "station_id": "277103305",
+      "station_nm": "노오지JC(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 24,
+      "station_id": "277102410",
+      "station_nm": "인천공항TG(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 25,
+      "station_id": "277103435",
+      "station_nm": "영종대교(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 26,
+      "station_id": "277103433",
+      "station_nm": "금산IC(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 27,
+      "station_id": "277103783",
+      "station_nm": "제1여객터미널진입1(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 28,
+      "station_id": "277103781",
+      "station_nm": "제1여객터미널진입2(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 29,
+      "station_id": "277103779",
+      "station_nm": "제1여객터미널진입3(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 30,
+      "station_id": "277103776",
+      "station_nm": "제1여객터미널진입4(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 31,
+      "station_id": "161000536",
+      "station_nm": "인천공항3층출국장(T1)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 32,
+      "station_id": "277103796",
+      "station_nm": "인천공항전망대(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 33,
+      "station_id": "277103801",
+      "station_nm": "제2여객터미널진입3(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 34,
+      "station_id": "277103802",
+      "station_nm": "제2여객터미널진입2(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 35,
+      "station_id": "277103772",
+      "station_nm": "제2여객터미널진입1(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 36,
+      "station_id": "161000611",
+      "station_nm": "인천공항3층출국장(T2)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 37,
+      "station_id": "277103771",
+      "station_nm": "장기주차장(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 38,
+      "station_id": "277104744",
+      "station_nm": "장기주차장출발(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 39,
+      "station_id": "277104745",
+      "station_nm": "인천공항2터미널진입전(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 40,
+      "station_id": "161000612",
+      "station_nm": "인천공항B1층입국장(T2)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 41,
+      "station_id": "277103774",
+      "station_nm": "제2여객터미널출발(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 42,
+      "station_id": "277103797",
+      "station_nm": "화물터미널IC(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 43,
+      "station_id": "277103773",
+      "station_nm": "운서IC(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 44,
+      "station_id": "277103798",
+      "station_nm": "공항신도시JC(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 45,
+      "station_id": "277103783",
+      "station_nm": "제1여객터미널진입1(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 46,
+      "station_id": "277103781",
+      "station_nm": "제1여객터미널진입2(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 47,
+      "station_id": "277103779",
+      "station_nm": "제1여객터미널진입3(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 48,
+      "station_id": "277103780",
+      "station_nm": "제1여객터미널진입4(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 49,
+      "station_id": "161000535",
+      "station_nm": "인천공항1층입국장(T1)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 50,
+      "station_id": "161000207",
+      "station_nm": "합동청사역"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 51,
+      "station_id": "161000026",
+      "station_nm": "국제업무단지(공항청사)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 52,
+      "station_id": "277103354",
+      "station_nm": "공항고속도로진입(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 53,
+      "station_id": "277103434",
+      "station_nm": "금산IC(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 54,
+      "station_id": "277103436",
+      "station_nm": "영종대교(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 55,
+      "station_id": "277102492",
+      "station_nm": "인천공항TG(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 56,
+      "station_id": "277103304",
+      "station_nm": "노오지JC(미정차)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 57,
+      "station_id": "218000518",
+      "station_nm": "서정마을입구"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 58,
+      "station_id": "218000078",
+      "station_nm": "행신동(중)"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 59,
+      "station_id": "218000076",
+      "station_nm": "행신초교"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 60,
+      "station_id": "218000126",
+      "station_nm": "샘터마을2단지.신능중학교"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 61,
+      "station_id": "218000084",
+      "station_nm": "행신동삼거리"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 62,
+      "station_id": "218000193",
+      "station_nm": "능곡역.능곡시장"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 63,
+      "station_id": "218000192",
+      "station_nm": "능곡초등학교"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 64,
+      "station_id": "218000343",
+      "station_nm": "대곡역롯데캐슬엘클라씨"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 65,
+      "station_id": "218000539",
+      "station_nm": "토당KCC아파트"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 66,
+      "station_id": "218000234",
+      "station_nm": "토당고가.별빛마을9단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 67,
+      "station_id": "218000232",
+      "station_nm": "옥빛마을16단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 68,
+      "station_id": "218000020",
+      "station_nm": "고양경찰서앞.고양어린이박물관"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 69,
+      "station_id": "218000019",
+      "station_nm": "화정역.롯데마트"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 70,
+      "station_id": "218000072",
+      "station_nm": "덕양구청"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 71,
+      "station_id": "218000071",
+      "station_nm": "화정동단독주택단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 72,
+      "station_id": "218000070",
+      "station_nm": "명지병원.은빛마을5단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 73,
+      "station_id": "218000069",
+      "station_nm": "화정1동행정복지센터"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 74,
+      "station_id": "218000068",
+      "station_nm": "고양어울림누리.달빛마을1단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 75,
+      "station_id": "218000067",
+      "station_nm": "성사2동행정복지센터"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 76,
+      "station_id": "218000092",
+      "station_nm": "어울림마을7단지"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 77,
+      "station_id": "218000505",
+      "station_nm": "동양쇼핑.원당시장후문"
+    },
+    {
+      "route_nm": "3200",
+      "sta_order": 78,
+      "station_id": "218000502",
+      "station_nm": "원당래미안아파트"
+    }
+  ],
+  "234000011": [
+    {
+      "route_nm": "1113-1",
+      "sta_order": 1,
+      "station_id": "234000604",
+      "station_nm": "동원대학교"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 2,
+      "station_id": "277101661",
+      "station_nm": "동원대학교출발(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 3,
+      "station_id": "234000349",
+      "station_nm": "동원대학교.넋고개앞"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 4,
+      "station_id": "234000348",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 5,
+      "station_id": "234000347",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 6,
+      "station_id": "234000346",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 7,
+      "station_id": "234000345",
+      "station_nm": "수양3리마을입구"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 8,
+      "station_id": "234001068",
+      "station_nm": "이화전기"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 9,
+      "station_id": "234000344",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 10,
+      "station_id": "234000343",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 11,
+      "station_id": "234000673",
+      "station_nm": "곤지향어울림마당"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 12,
+      "station_id": "234000943",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 13,
+      "station_id": "234000089",
+      "station_nm": "곤지암초중고.곤지암농협건너"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 14,
+      "station_id": "234000342",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 15,
+      "station_id": "234000341",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 16,
+      "station_id": "234000340",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 17,
+      "station_id": "234000339",
+      "station_nm": "벽산.대주아파트.모다아울렛"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 18,
+      "station_id": "234000338",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 19,
+      "station_id": "234000337",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 20,
+      "station_id": "234000336",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 21,
+      "station_id": "234000335",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 22,
+      "station_id": "234000334",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 23,
+      "station_id": "234000333",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 24,
+      "station_id": "234000332",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 25,
+      "station_id": "234000331",
+      "station_nm": "쌍령동"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 26,
+      "station_id": "234000284",
+      "station_nm": "역동사거리"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 27,
+      "station_id": "234000283",
+      "station_nm": "광주터미널"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 28,
+      "station_id": "234000282",
+      "station_nm": "송정교.경화여고"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 29,
+      "station_id": "234000949",
+      "station_nm": "송정동현대아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 30,
+      "station_id": "234000466",
+      "station_nm": "광주하남교육청"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 31,
+      "station_id": "234000281",
+      "station_nm": "밀목.광주시청앞"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 32,
+      "station_id": "234000280",
+      "station_nm": "밀목빌라단지"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 33,
+      "station_id": "234000603",
+      "station_nm": "밀목주유소.21세기자동차학원"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 34,
+      "station_id": "234000279",
+      "station_nm": "솔치마을"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 35,
+      "station_id": "234000278",
+      "station_nm": "번천초교.광주IC"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 36,
+      "station_id": "277103263",
+      "station_nm": "경기광주IC(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 37,
+      "station_id": "277102517",
+      "station_nm": "산곡JC(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 38,
+      "station_id": "277102818",
+      "station_nm": "동서울(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 39,
+      "station_id": "277102518",
+      "station_nm": "하남JC(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 40,
+      "station_id": "124000348",
+      "station_nm": "상일초등학교"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 41,
+      "station_id": "124000369",
+      "station_nm": "초이동(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 42,
+      "station_id": "124000360",
+      "station_nm": "강동자이.프라자아파트(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 43,
+      "station_id": "124000359",
+      "station_nm": "길동주민센터.둔촌2동주민센터(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 44,
+      "station_id": "124000358",
+      "station_nm": "길동사거리.강동세무서(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 45,
+      "station_id": "124000357",
+      "station_nm": "강동역(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 46,
+      "station_id": "124000453",
+      "station_nm": "천호역(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 47,
+      "station_id": "104000269",
+      "station_nm": "광진청소년센터"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 48,
+      "station_id": "277102674",
+      "station_nm": "천호대교북단(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 49,
+      "station_id": "277103309",
+      "station_nm": "올림픽대교북단(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 50,
+      "station_id": "104000069",
+      "station_nm": "테크노마트앞.강변역(D)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 51,
+      "station_id": "104000064",
+      "station_nm": "현대아파트앞"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 52,
+      "station_id": "104000074",
+      "station_nm": "광장동현대아파트앞"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 53,
+      "station_id": "277102303",
+      "station_nm": "광나루역(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 54,
+      "station_id": "277102304",
+      "station_nm": "천호대교남단(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 55,
+      "station_id": "124000454",
+      "station_nm": "천호역(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 56,
+      "station_id": "124000366",
+      "station_nm": "강동역(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 57,
+      "station_id": "124000365",
+      "station_nm": "길동사거리.강동세무서(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 58,
+      "station_id": "124000364",
+      "station_nm": "길동주민센터.둔촌2동주민센터(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 59,
+      "station_id": "124000363",
+      "station_nm": "강동자이.프라자아파트(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 60,
+      "station_id": "124000370",
+      "station_nm": "초이동(중)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 61,
+      "station_id": "124000356",
+      "station_nm": "상일초등학교"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 62,
+      "station_id": "277102817",
+      "station_nm": "동서울(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 63,
+      "station_id": "277103086",
+      "station_nm": "산곡JC(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 64,
+      "station_id": "234000275",
+      "station_nm": "번천초교.광주IC"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 65,
+      "station_id": "234000274",
+      "station_nm": "솔치마을"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 66,
+      "station_id": "277104324",
+      "station_nm": "회안대로(미정차)"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 67,
+      "station_id": "234000868",
+      "station_nm": "밀목빌라"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 68,
+      "station_id": "234000273",
+      "station_nm": "밀목.광주시청앞"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 69,
+      "station_id": "234000467",
+      "station_nm": "광주하남교육청"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 70,
+      "station_id": "234000950",
+      "station_nm": "송정동현대아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 71,
+      "station_id": "234000272",
+      "station_nm": "송정교"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 72,
+      "station_id": "234000271",
+      "station_nm": "광주터미널.참조은병원앞"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 73,
+      "station_id": "234000270",
+      "station_nm": "역동사거리"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 74,
+      "station_id": "234000371",
+      "station_nm": "새광주주유소"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 75,
+      "station_id": "234000370",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 76,
+      "station_id": "234000369",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 77,
+      "station_id": "234000368",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 78,
+      "station_id": "234000366",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 79,
+      "station_id": "234000365",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 80,
+      "station_id": "234000364",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 81,
+      "station_id": "234000363",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 82,
+      "station_id": "234000362",
+      "station_nm": "벽산대주아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 83,
+      "station_id": "234000361",
+      "station_nm": "모다아울렛"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 84,
+      "station_id": "234000360",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 85,
+      "station_id": "234000359",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 86,
+      "station_id": "234000358",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 87,
+      "station_id": "234001005",
+      "station_nm": "곤지암초중고.소머리국밥.신협곤지암점"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 88,
+      "station_id": "234000357",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 89,
+      "station_id": "234000356",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 90,
+      "station_id": "234000355",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 91,
+      "station_id": "234001061",
+      "station_nm": "이화전기앞"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 92,
+      "station_id": "234000354",
+      "station_nm": "수양1리"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 93,
+      "station_id": "234000353",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 94,
+      "station_id": "234000352",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 95,
+      "station_id": "234000351",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 96,
+      "station_id": "234000350",
+      "station_nm": "동원대학교앞"
+    },
+    {
+      "route_nm": "1113-1",
+      "sta_order": 97,
+      "station_id": "234000605",
+      "station_nm": "동원대학교"
+    }
+  ],
+  "234000075": [
+    {
+      "route_nm": "500-2",
+      "sta_order": 1,
+      "station_id": "234000604",
+      "station_nm": "동원대학교"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 2,
+      "station_id": "277101661",
+      "station_nm": "동원대학교출발(미정차)"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 3,
+      "station_id": "234000349",
+      "station_nm": "동원대학교.넋고개앞"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 4,
+      "station_id": "234000348",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 5,
+      "station_id": "234000347",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 6,
+      "station_id": "234000346",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 7,
+      "station_id": "234000345",
+      "station_nm": "수양3리마을입구"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 8,
+      "station_id": "234001068",
+      "station_nm": "이화전기"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 9,
+      "station_id": "234000344",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 10,
+      "station_id": "234000343",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 11,
+      "station_id": "234000673",
+      "station_nm": "곤지향어울림마당"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 12,
+      "station_id": "234000943",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 13,
+      "station_id": "234000089",
+      "station_nm": "곤지암초중고.곤지암농협건너"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 14,
+      "station_id": "234000342",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 15,
+      "station_id": "234000341",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 16,
+      "station_id": "234000340",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 17,
+      "station_id": "234000339",
+      "station_nm": "벽산.대주아파트.모다아울렛"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 18,
+      "station_id": "234000338",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 19,
+      "station_id": "234000337",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 20,
+      "station_id": "234000336",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 21,
+      "station_id": "234000335",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 22,
+      "station_id": "234000334",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 23,
+      "station_id": "234000333",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 24,
+      "station_id": "234000332",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 25,
+      "station_id": "234000331",
+      "station_nm": "쌍령동"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 26,
+      "station_id": "277103685",
+      "station_nm": "광주IC(미정차)"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 27,
+      "station_id": "234001077",
+      "station_nm": "역동"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 28,
+      "station_id": "234000330",
+      "station_nm": "경안장례식장.이편한세상광주역아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 29,
+      "station_id": "234000436",
+      "station_nm": "절골.장지동.미빙냉장"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 30,
+      "station_id": "234001004",
+      "station_nm": "장지동.조은교회앞"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 31,
+      "station_id": "234000435",
+      "station_nm": "중앙저수지.선광주유소"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 32,
+      "station_id": "234000434",
+      "station_nm": "임마누엘교회"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 33,
+      "station_id": "234000064",
+      "station_nm": "텃골.중대동"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 34,
+      "station_id": "234001169",
+      "station_nm": "삼동역육교"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 35,
+      "station_id": "234000063",
+      "station_nm": "삼동.갈마주유소"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 36,
+      "station_id": "277103681",
+      "station_nm": "갈현교차로(미정차)"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 37,
+      "station_id": "205000078",
+      "station_nm": "갈현동"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 38,
+      "station_id": "205000074",
+      "station_nm": "섬마을"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 39,
+      "station_id": "205000069",
+      "station_nm": "모란역4번출구"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 40,
+      "station_id": "204000087",
+      "station_nm": "모란고개"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 41,
+      "station_id": "204000019",
+      "station_nm": "성남수정경찰서"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 42,
+      "station_id": "204000022",
+      "station_nm": "수진리고개.태평고개"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 43,
+      "station_id": "204000021",
+      "station_nm": "가천대역.가천대학교"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 44,
+      "station_id": "204000020",
+      "station_nm": "복우물.웃말입구"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 45,
+      "station_id": "204000227",
+      "station_nm": "복정파출소.복정캠퍼스맛집거리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 46,
+      "station_id": "204000116",
+      "station_nm": "동서울대학교"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 47,
+      "station_id": "204000115",
+      "station_nm": "복정초등학교"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 48,
+      "station_id": "204000114",
+      "station_nm": "복정동행정복지센터"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 49,
+      "station_id": "123000343",
+      "station_nm": "복정역3번출구"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 50,
+      "station_id": "122000312",
+      "station_nm": "삼일자동차학원.강남자동차검사소"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 51,
+      "station_id": "122000313",
+      "station_nm": "광연자동차학원앞"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 52,
+      "station_id": "122000315",
+      "station_nm": "세곡동사거리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 53,
+      "station_id": "122000316",
+      "station_nm": "방죽마을"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 54,
+      "station_id": "122000317",
+      "station_nm": "래미안포레아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 55,
+      "station_id": "122000718",
+      "station_nm": "고속철도수서역"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 56,
+      "station_id": "122000295",
+      "station_nm": "수서역"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 57,
+      "station_id": "122000398",
+      "station_nm": "코원에너지서비스"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 58,
+      "station_id": "122000643",
+      "station_nm": "학여울역"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 59,
+      "station_id": "122000137",
+      "station_nm": "쌍용아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 60,
+      "station_id": "122000388",
+      "station_nm": "새마을운동중앙회"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 61,
+      "station_id": "122000386",
+      "station_nm": "총회회관.휘문고입구"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 62,
+      "station_id": "122000098",
+      "station_nm": "한국무역센터.삼성역"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 63,
+      "station_id": "122000099",
+      "station_nm": "포스코사거리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 64,
+      "station_id": "122000100",
+      "station_nm": "한별구립어린이집"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 65,
+      "station_id": "122000088",
+      "station_nm": "봉은사.코엑스북문"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 66,
+      "station_id": "122000095",
+      "station_nm": "무역센터"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 67,
+      "station_id": "122000096",
+      "station_nm": "무역센터"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 68,
+      "station_id": "122000330",
+      "station_nm": "삼성역3번출구"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 69,
+      "station_id": "122000142",
+      "station_nm": "휘문고교사거리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 70,
+      "station_id": "122000133",
+      "station_nm": "대치동은마아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 71,
+      "station_id": "122000644",
+      "station_nm": "학여울역"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 72,
+      "station_id": "122000397",
+      "station_nm": "코원에너지서비스"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 73,
+      "station_id": "122000747",
+      "station_nm": "수서역6번출구"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 74,
+      "station_id": "122000717",
+      "station_nm": "고속철도수서역"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 75,
+      "station_id": "122000320",
+      "station_nm": "래미안포레아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 76,
+      "station_id": "122000321",
+      "station_nm": "방죽마을"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 77,
+      "station_id": "122000304",
+      "station_nm": "세곡동주민센터"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 78,
+      "station_id": "122000309",
+      "station_nm": "세곡동"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 79,
+      "station_id": "122000310",
+      "station_nm": "광연자동차학원앞"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 80,
+      "station_id": "122000311",
+      "station_nm": "삼일자동차학원.강남자동차검사소"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 81,
+      "station_id": "123000319",
+      "station_nm": "복정역"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 82,
+      "station_id": "123000249",
+      "station_nm": "장지동"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 83,
+      "station_id": "204000113",
+      "station_nm": "복정동행정복지센터"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 84,
+      "station_id": "204000112",
+      "station_nm": "동서울대학교"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 85,
+      "station_id": "204000253",
+      "station_nm": "복정파출소.복정캠퍼스맛집거리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 86,
+      "station_id": "204000111",
+      "station_nm": "복우물.웃말입구"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 87,
+      "station_id": "204000110",
+      "station_nm": "가천대역.가천대학교"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 88,
+      "station_id": "204000023",
+      "station_nm": "수진리고개.태평고개"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 89,
+      "station_id": "204000011",
+      "station_nm": "성남수정경찰서앞"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 90,
+      "station_id": "204000088",
+      "station_nm": "모란고개"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 91,
+      "station_id": "205000207",
+      "station_nm": "모란역(광역.시외버스)"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 92,
+      "station_id": "205000073",
+      "station_nm": "섬마을"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 93,
+      "station_id": "205000079",
+      "station_nm": "갈현동"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 94,
+      "station_id": "205000267",
+      "station_nm": "성남시장례문화사업소.장례식장입구"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 95,
+      "station_id": "234000066",
+      "station_nm": "삼동.갈마주유소"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 96,
+      "station_id": "234001168",
+      "station_nm": "삼동역육교"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 97,
+      "station_id": "234000065",
+      "station_nm": "텃골.중대동"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 98,
+      "station_id": "234000439",
+      "station_nm": "중앙저수지.선광주유소"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 99,
+      "station_id": "234000438",
+      "station_nm": "중간말.오디벨로"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 100,
+      "station_id": "234000437",
+      "station_nm": "장지동.절골"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 101,
+      "station_id": "234000372",
+      "station_nm": "경안장례식장.이편한세상광주역아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 102,
+      "station_id": "277103686",
+      "station_nm": "광주IC(미정차)"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 103,
+      "station_id": "234000371",
+      "station_nm": "새광주주유소"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 104,
+      "station_id": "234000370",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 105,
+      "station_id": "234000369",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 106,
+      "station_id": "234000368",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 107,
+      "station_id": "234000366",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 108,
+      "station_id": "234000365",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 109,
+      "station_id": "234000364",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 110,
+      "station_id": "234000363",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 111,
+      "station_id": "234000362",
+      "station_nm": "벽산대주아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 112,
+      "station_id": "234000361",
+      "station_nm": "모다아울렛"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 113,
+      "station_id": "234000360",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 114,
+      "station_id": "234000359",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 115,
+      "station_id": "234000358",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 116,
+      "station_id": "234001005",
+      "station_nm": "곤지암초중고.소머리국밥.신협곤지암점"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 117,
+      "station_id": "234000357",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 118,
+      "station_id": "234000356",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 119,
+      "station_id": "234000355",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 120,
+      "station_id": "234001061",
+      "station_nm": "이화전기앞"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 121,
+      "station_id": "234000354",
+      "station_nm": "수양1리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 122,
+      "station_id": "234000353",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 123,
+      "station_id": "234000352",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 124,
+      "station_id": "234000351",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "500-2",
+      "sta_order": 125,
+      "station_id": "234000605",
+      "station_nm": "동원대학교"
+    }
+  ],
+  "234000079": [
+    {
+      "route_nm": "500-1",
+      "sta_order": 1,
+      "station_id": "234000604",
+      "station_nm": "동원대학교"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 2,
+      "station_id": "277101661",
+      "station_nm": "동원대학교출발(미정차)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 3,
+      "station_id": "234000349",
+      "station_nm": "동원대학교.넋고개앞"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 4,
+      "station_id": "234000348",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 5,
+      "station_id": "234000347",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 6,
+      "station_id": "234000346",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 7,
+      "station_id": "234000345",
+      "station_nm": "수양3리마을입구"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 8,
+      "station_id": "234001068",
+      "station_nm": "이화전기"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 9,
+      "station_id": "234000344",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 10,
+      "station_id": "234000343",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 11,
+      "station_id": "234000673",
+      "station_nm": "곤지향어울림마당"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 12,
+      "station_id": "234000943",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 13,
+      "station_id": "234000089",
+      "station_nm": "곤지암초중고.곤지암농협건너"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 14,
+      "station_id": "234000342",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 15,
+      "station_id": "234000341",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 16,
+      "station_id": "234000340",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 17,
+      "station_id": "234000339",
+      "station_nm": "벽산.대주아파트.모다아울렛"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 18,
+      "station_id": "234000338",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 19,
+      "station_id": "234000337",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 20,
+      "station_id": "234000336",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 21,
+      "station_id": "234000335",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 22,
+      "station_id": "234000334",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 23,
+      "station_id": "234000333",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 24,
+      "station_id": "234000332",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 25,
+      "station_id": "234000331",
+      "station_nm": "쌍령동"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 26,
+      "station_id": "277103685",
+      "station_nm": "광주IC(미정차)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 27,
+      "station_id": "234001077",
+      "station_nm": "역동"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 28,
+      "station_id": "234000330",
+      "station_nm": "경안장례식장.이편한세상광주역아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 29,
+      "station_id": "234000436",
+      "station_nm": "절골.장지동.미빙냉장"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 30,
+      "station_id": "234001004",
+      "station_nm": "장지동.조은교회앞"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 31,
+      "station_id": "234000435",
+      "station_nm": "중앙저수지.선광주유소"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 32,
+      "station_id": "234000434",
+      "station_nm": "임마누엘교회"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 33,
+      "station_id": "234000064",
+      "station_nm": "텃골.중대동"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 34,
+      "station_id": "234001169",
+      "station_nm": "삼동역육교"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 35,
+      "station_id": "234000063",
+      "station_nm": "삼동.갈마주유소"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 36,
+      "station_id": "277103681",
+      "station_nm": "갈현교차로(미정차)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 37,
+      "station_id": "205000078",
+      "station_nm": "갈현동"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 38,
+      "station_id": "205000074",
+      "station_nm": "섬마을"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 39,
+      "station_id": "205000069",
+      "station_nm": "모란역4번출구"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 40,
+      "station_id": "204000087",
+      "station_nm": "모란고개"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 41,
+      "station_id": "204000019",
+      "station_nm": "성남수정경찰서"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 42,
+      "station_id": "204000022",
+      "station_nm": "수진리고개.태평고개"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 43,
+      "station_id": "204000021",
+      "station_nm": "가천대역.가천대학교"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 44,
+      "station_id": "204000020",
+      "station_nm": "복우물.웃말입구"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 45,
+      "station_id": "204000227",
+      "station_nm": "복정파출소.복정캠퍼스맛집거리"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 46,
+      "station_id": "204000116",
+      "station_nm": "동서울대학교"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 47,
+      "station_id": "204000115",
+      "station_nm": "복정초등학교"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 48,
+      "station_id": "204000114",
+      "station_nm": "복정동행정복지센터"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 49,
+      "station_id": "123000329",
+      "station_nm": "복정역2번출구"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 50,
+      "station_id": "123000015",
+      "station_nm": "장지역.가든파이브(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 51,
+      "station_id": "123000013",
+      "station_nm": "문정법조단지.건영아파트(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 52,
+      "station_id": "123000011",
+      "station_nm": "문정로데오거리입구(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 53,
+      "station_id": "123000009",
+      "station_nm": "가락시장.가락시장역(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 54,
+      "station_id": "123000007",
+      "station_nm": "송파역(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 55,
+      "station_id": "123000005",
+      "station_nm": "석촌역(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 56,
+      "station_id": "123000003",
+      "station_nm": "석촌호수.한솔병원(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 57,
+      "station_id": "277102839",
+      "station_nm": "석촌역교차로(미정차)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 58,
+      "station_id": "123000611",
+      "station_nm": "잠실광역환승센터"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 59,
+      "station_id": "277102843",
+      "station_nm": "잠실역환승센터출구(미정차)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 60,
+      "station_id": "123000004",
+      "station_nm": "석촌호수.한솔병원(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 61,
+      "station_id": "123000006",
+      "station_nm": "석촌역(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 62,
+      "station_id": "123000008",
+      "station_nm": "송파역(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 63,
+      "station_id": "123000010",
+      "station_nm": "가락시장.가락시장역(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 64,
+      "station_id": "123000012",
+      "station_nm": "문정로데오거리입구(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 65,
+      "station_id": "123000014",
+      "station_nm": "문정법조단지.건영아파트(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 66,
+      "station_id": "123000016",
+      "station_nm": "장지역.가든파이브(중)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 67,
+      "station_id": "204000113",
+      "station_nm": "복정동행정복지센터"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 68,
+      "station_id": "204000112",
+      "station_nm": "동서울대학교"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 69,
+      "station_id": "204000253",
+      "station_nm": "복정파출소.복정캠퍼스맛집거리"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 70,
+      "station_id": "204000111",
+      "station_nm": "복우물.웃말입구"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 71,
+      "station_id": "204000110",
+      "station_nm": "가천대역.가천대학교"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 72,
+      "station_id": "204000023",
+      "station_nm": "수진리고개.태평고개"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 73,
+      "station_id": "204000011",
+      "station_nm": "성남수정경찰서앞"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 74,
+      "station_id": "204000088",
+      "station_nm": "모란고개"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 75,
+      "station_id": "205000207",
+      "station_nm": "모란역(광역.시외버스)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 76,
+      "station_id": "205000073",
+      "station_nm": "섬마을"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 77,
+      "station_id": "205000079",
+      "station_nm": "갈현동"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 78,
+      "station_id": "205000267",
+      "station_nm": "성남시장례문화사업소.장례식장입구"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 79,
+      "station_id": "234000066",
+      "station_nm": "삼동.갈마주유소"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 80,
+      "station_id": "234001168",
+      "station_nm": "삼동역육교"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 81,
+      "station_id": "234000065",
+      "station_nm": "텃골.중대동"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 82,
+      "station_id": "234000439",
+      "station_nm": "중앙저수지.선광주유소"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 83,
+      "station_id": "234000438",
+      "station_nm": "중간말.오디벨로"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 84,
+      "station_id": "234000437",
+      "station_nm": "장지동.절골"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 85,
+      "station_id": "234000372",
+      "station_nm": "경안장례식장.이편한세상광주역아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 86,
+      "station_id": "277103686",
+      "station_nm": "광주IC(미정차)"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 87,
+      "station_id": "234000371",
+      "station_nm": "새광주주유소"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 88,
+      "station_id": "234000370",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 89,
+      "station_id": "234000369",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 90,
+      "station_id": "234000368",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 91,
+      "station_id": "234000366",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 92,
+      "station_id": "234000365",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 93,
+      "station_id": "234000364",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 94,
+      "station_id": "234000363",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 95,
+      "station_id": "234000362",
+      "station_nm": "벽산대주아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 96,
+      "station_id": "234000361",
+      "station_nm": "모다아울렛"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 97,
+      "station_id": "234000360",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 98,
+      "station_id": "234000359",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 99,
+      "station_id": "234000358",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 100,
+      "station_id": "234001005",
+      "station_nm": "곤지암초중고.소머리국밥.신협곤지암점"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 101,
+      "station_id": "234000357",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 102,
+      "station_id": "234000356",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 103,
+      "station_id": "234000355",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 104,
+      "station_id": "234001061",
+      "station_nm": "이화전기앞"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 105,
+      "station_id": "234000354",
+      "station_nm": "수양1리"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 106,
+      "station_id": "234000353",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 107,
+      "station_id": "234000352",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 108,
+      "station_id": "234000351",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 109,
+      "station_id": "234000350",
+      "station_nm": "동원대학교앞"
+    },
+    {
+      "route_nm": "500-1",
+      "sta_order": 110,
+      "station_id": "234000605",
+      "station_nm": "동원대학교"
+    }
+  ],
+  "234001203": [
+    {
+      "route_nm": "1113-10",
+      "sta_order": 1,
+      "station_id": "234000604",
+      "station_nm": "동원대학교"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 2,
+      "station_id": "277101661",
+      "station_nm": "동원대학교출발(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 3,
+      "station_id": "234000349",
+      "station_nm": "동원대학교.넋고개앞"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 4,
+      "station_id": "234000348",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 5,
+      "station_id": "234000347",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 6,
+      "station_id": "234000346",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 7,
+      "station_id": "234000345",
+      "station_nm": "수양3리마을입구"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 8,
+      "station_id": "234001068",
+      "station_nm": "이화전기"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 9,
+      "station_id": "234000344",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 10,
+      "station_id": "234000343",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 11,
+      "station_id": "234000673",
+      "station_nm": "곤지향어울림마당"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 12,
+      "station_id": "234000943",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 13,
+      "station_id": "234000089",
+      "station_nm": "곤지암초중고.곤지암농협건너"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 14,
+      "station_id": "234000342",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 15,
+      "station_id": "234000341",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 16,
+      "station_id": "234000340",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 17,
+      "station_id": "234000339",
+      "station_nm": "벽산.대주아파트.모다아울렛"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 18,
+      "station_id": "234000338",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 19,
+      "station_id": "234000337",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 20,
+      "station_id": "234000336",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 21,
+      "station_id": "234000335",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 22,
+      "station_id": "234000334",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 23,
+      "station_id": "234000333",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 24,
+      "station_id": "234000332",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 25,
+      "station_id": "234000331",
+      "station_nm": "쌍령동"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 26,
+      "station_id": "234000284",
+      "station_nm": "역동사거리"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 27,
+      "station_id": "234000283",
+      "station_nm": "광주터미널"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 28,
+      "station_id": "234000282",
+      "station_nm": "송정교.경화여고"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 29,
+      "station_id": "234000949",
+      "station_nm": "송정동현대아파트"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 30,
+      "station_id": "234000466",
+      "station_nm": "광주하남교육청"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 31,
+      "station_id": "234000281",
+      "station_nm": "밀목.광주시청앞"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 32,
+      "station_id": "234000280",
+      "station_nm": "밀목빌라단지"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 33,
+      "station_id": "234000603",
+      "station_nm": "밀목주유소.21세기자동차학원"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 34,
+      "station_id": "234000279",
+      "station_nm": "솔치마을"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 35,
+      "station_id": "234000278",
+      "station_nm": "번천초교.광주IC"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 36,
+      "station_id": "277103263",
+      "station_nm": "경기광주IC(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 37,
+      "station_id": "277102517",
+      "station_nm": "산곡JC(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 38,
+      "station_id": "277102818",
+      "station_nm": "동서울(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 39,
+      "station_id": "277102518",
+      "station_nm": "하남JC(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 40,
+      "station_id": "124000348",
+      "station_nm": "상일초등학교"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 41,
+      "station_id": "124000369",
+      "station_nm": "초이동(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 42,
+      "station_id": "124000360",
+      "station_nm": "강동자이.프라자아파트(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 43,
+      "station_id": "124000359",
+      "station_nm": "길동주민센터.둔촌2동주민센터(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 44,
+      "station_id": "124000358",
+      "station_nm": "길동사거리.강동세무서(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 45,
+      "station_id": "124000357",
+      "station_nm": "강동역(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 46,
+      "station_id": "124000453",
+      "station_nm": "천호역(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 47,
+      "station_id": "104000269",
+      "station_nm": "광진청소년센터"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 48,
+      "station_id": "277102674",
+      "station_nm": "천호대교북단(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 49,
+      "station_id": "277103309",
+      "station_nm": "올림픽대교북단(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 50,
+      "station_id": "104000069",
+      "station_nm": "테크노마트앞.강변역(D)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 51,
+      "station_id": "104000064",
+      "station_nm": "현대아파트앞"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 52,
+      "station_id": "104000074",
+      "station_nm": "광장동현대아파트앞"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 53,
+      "station_id": "277102303",
+      "station_nm": "광나루역(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 54,
+      "station_id": "277102304",
+      "station_nm": "천호대교남단(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 55,
+      "station_id": "124000454",
+      "station_nm": "천호역(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 56,
+      "station_id": "124000366",
+      "station_nm": "강동역(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 57,
+      "station_id": "124000365",
+      "station_nm": "길동사거리.강동세무서(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 58,
+      "station_id": "124000364",
+      "station_nm": "길동주민센터.둔촌2동주민센터(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 59,
+      "station_id": "124000363",
+      "station_nm": "강동자이.프라자아파트(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 60,
+      "station_id": "124000370",
+      "station_nm": "초이동(중)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 61,
+      "station_id": "124000356",
+      "station_nm": "상일초등학교"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 62,
+      "station_id": "277102817",
+      "station_nm": "동서울(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 63,
+      "station_id": "277103086",
+      "station_nm": "산곡JC(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 64,
+      "station_id": "277103262",
+      "station_nm": "경기광주IC(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 65,
+      "station_id": "277103259",
+      "station_nm": "곤지암IC(미정차)"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 66,
+      "station_id": "234000359",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 67,
+      "station_id": "234000358",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 68,
+      "station_id": "234001005",
+      "station_nm": "곤지암초중고.소머리국밥.신협곤지암점"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 69,
+      "station_id": "234000357",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 70,
+      "station_id": "234000356",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 71,
+      "station_id": "234000355",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 72,
+      "station_id": "234001061",
+      "station_nm": "이화전기앞"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 73,
+      "station_id": "234000354",
+      "station_nm": "수양1리"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 74,
+      "station_id": "234000353",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 75,
+      "station_id": "234000352",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 76,
+      "station_id": "234000351",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 77,
+      "station_id": "234000350",
+      "station_nm": "동원대학교앞"
+    },
+    {
+      "route_nm": "1113-10",
+      "sta_order": 78,
+      "station_id": "234000605",
+      "station_nm": "동원대학교"
+    }
+  ],
+  "234001204": [
+    {
+      "route_nm": "1113-11",
+      "sta_order": 1,
+      "station_id": "234000604",
+      "station_nm": "동원대학교"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 2,
+      "station_id": "277101661",
+      "station_nm": "동원대학교출발(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 3,
+      "station_id": "234000349",
+      "station_nm": "동원대학교.넋고개앞"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 4,
+      "station_id": "234000348",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 5,
+      "station_id": "234000347",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 6,
+      "station_id": "234000346",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 7,
+      "station_id": "234000345",
+      "station_nm": "수양3리마을입구"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 8,
+      "station_id": "234001068",
+      "station_nm": "이화전기"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 9,
+      "station_id": "234000344",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 10,
+      "station_id": "234000343",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 11,
+      "station_id": "234000673",
+      "station_nm": "곤지향어울림마당"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 12,
+      "station_id": "234000943",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 13,
+      "station_id": "234000089",
+      "station_nm": "곤지암초중고.곤지암농협건너"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 14,
+      "station_id": "234000342",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 15,
+      "station_id": "234000341",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 16,
+      "station_id": "277103604",
+      "station_nm": "곤지암TG(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 17,
+      "station_id": "277103263",
+      "station_nm": "경기광주IC(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 18,
+      "station_id": "277102517",
+      "station_nm": "산곡JC(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 19,
+      "station_id": "277102818",
+      "station_nm": "동서울(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 20,
+      "station_id": "277102518",
+      "station_nm": "하남JC(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 21,
+      "station_id": "124000348",
+      "station_nm": "상일초등학교"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 22,
+      "station_id": "124000369",
+      "station_nm": "초이동(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 23,
+      "station_id": "124000360",
+      "station_nm": "강동자이.프라자아파트(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 24,
+      "station_id": "124000359",
+      "station_nm": "길동주민센터.둔촌2동주민센터(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 25,
+      "station_id": "124000358",
+      "station_nm": "길동사거리.강동세무서(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 26,
+      "station_id": "124000357",
+      "station_nm": "강동역(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 27,
+      "station_id": "124000453",
+      "station_nm": "천호역(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 28,
+      "station_id": "104000269",
+      "station_nm": "광진청소년센터"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 29,
+      "station_id": "277102674",
+      "station_nm": "천호대교북단(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 30,
+      "station_id": "277103309",
+      "station_nm": "올림픽대교북단(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 31,
+      "station_id": "104000069",
+      "station_nm": "테크노마트앞.강변역(D)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 32,
+      "station_id": "104000064",
+      "station_nm": "현대아파트앞"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 33,
+      "station_id": "104000074",
+      "station_nm": "광장동현대아파트앞"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 34,
+      "station_id": "277102303",
+      "station_nm": "광나루역(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 35,
+      "station_id": "277102304",
+      "station_nm": "천호대교남단(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 36,
+      "station_id": "124000454",
+      "station_nm": "천호역(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 37,
+      "station_id": "124000366",
+      "station_nm": "강동역(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 38,
+      "station_id": "124000365",
+      "station_nm": "길동사거리.강동세무서(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 39,
+      "station_id": "124000364",
+      "station_nm": "길동주민센터.둔촌2동주민센터(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 40,
+      "station_id": "124000363",
+      "station_nm": "강동자이.프라자아파트(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 41,
+      "station_id": "124000370",
+      "station_nm": "초이동(중)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 42,
+      "station_id": "124000356",
+      "station_nm": "상일초등학교"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 43,
+      "station_id": "277102817",
+      "station_nm": "동서울(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 44,
+      "station_id": "277103086",
+      "station_nm": "산곡JC(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 45,
+      "station_id": "234000275",
+      "station_nm": "번천초교.광주IC"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 46,
+      "station_id": "234000274",
+      "station_nm": "솔치마을"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 47,
+      "station_id": "277104324",
+      "station_nm": "회안대로(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 48,
+      "station_id": "234000868",
+      "station_nm": "밀목빌라"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 49,
+      "station_id": "234000273",
+      "station_nm": "밀목.광주시청앞"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 50,
+      "station_id": "234000467",
+      "station_nm": "광주하남교육청"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 51,
+      "station_id": "234000950",
+      "station_nm": "송정동현대아파트"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 52,
+      "station_id": "234000272",
+      "station_nm": "송정교"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 53,
+      "station_id": "234000271",
+      "station_nm": "광주터미널.참조은병원앞"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 54,
+      "station_id": "234000270",
+      "station_nm": "역동사거리"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 55,
+      "station_id": "277103686",
+      "station_nm": "광주IC(미정차)"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 56,
+      "station_id": "234000371",
+      "station_nm": "새광주주유소"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 57,
+      "station_id": "234000370",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 58,
+      "station_id": "234000369",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 59,
+      "station_id": "234000368",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 60,
+      "station_id": "234000366",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 61,
+      "station_id": "234000365",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 62,
+      "station_id": "234000364",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 63,
+      "station_id": "234000363",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 64,
+      "station_id": "234000362",
+      "station_nm": "벽산대주아파트"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 65,
+      "station_id": "234000361",
+      "station_nm": "모다아울렛"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 66,
+      "station_id": "234000360",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 67,
+      "station_id": "234000359",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 68,
+      "station_id": "234000358",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 69,
+      "station_id": "234001005",
+      "station_nm": "곤지암초중고.소머리국밥.신협곤지암점"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 70,
+      "station_id": "234000357",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 71,
+      "station_id": "234000356",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 72,
+      "station_id": "234000355",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 73,
+      "station_id": "234001061",
+      "station_nm": "이화전기앞"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 74,
+      "station_id": "234000354",
+      "station_nm": "수양1리"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 75,
+      "station_id": "234000353",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 76,
+      "station_id": "234000352",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 77,
+      "station_id": "234000351",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 78,
+      "station_id": "234000350",
+      "station_nm": "동원대학교앞"
+    },
+    {
+      "route_nm": "1113-11",
+      "sta_order": 79,
+      "station_id": "234000605",
+      "station_nm": "동원대학교"
+    }
+  ],
+  "234001206": [
+    {
+      "route_nm": "20-33",
+      "sta_order": 1,
+      "station_id": "230000470",
+      "station_nm": "죽당리"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 2,
+      "station_id": "230000469",
+      "station_nm": "죽당2리"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 3,
+      "station_id": "230000863",
+      "station_nm": "부발중학교"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 4,
+      "station_id": "230000191",
+      "station_nm": "부발우체국"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 5,
+      "station_id": "230000188",
+      "station_nm": "마암리"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 6,
+      "station_id": "230000187",
+      "station_nm": "복하교"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 7,
+      "station_id": "230000186",
+      "station_nm": "진리"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 8,
+      "station_id": "230001304",
+      "station_nm": "미란다호텔"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 9,
+      "station_id": "230000251",
+      "station_nm": "터미널신둔홈"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 10,
+      "station_id": "230000179",
+      "station_nm": "제일은행.이천터미널"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 11,
+      "station_id": "230000892",
+      "station_nm": "상공회의소"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 12,
+      "station_id": "230001531",
+      "station_nm": "율현사거리"
+    },
+    {
+      "route_nm": "20-33",
+      "sta_order": 13,
+      "station_id": "230001210",
+      "station_nm": "이천역종점"
+    }
+  ],
+  "234001218": [
+    {
+      "route_nm": "26-11",
+      "sta_order": 1,
+      "station_id": "230000736",
+      "station_nm": "골프장앞"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 2,
+      "station_id": "230000733",
+      "station_nm": "두미2리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 3,
+      "station_id": "230000731",
+      "station_nm": "두미2리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 4,
+      "station_id": "230001037",
+      "station_nm": "두미1리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 5,
+      "station_id": "230000729",
+      "station_nm": "학교앞"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 6,
+      "station_id": "230001250",
+      "station_nm": "어농1리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 7,
+      "station_id": "230001541",
+      "station_nm": "어농3리마을회관"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 8,
+      "station_id": "230001251",
+      "station_nm": "어농3리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 9,
+      "station_id": "230000772",
+      "station_nm": "어농리입구"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 10,
+      "station_id": "230001252",
+      "station_nm": "장릉앞"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 11,
+      "station_id": "230000718",
+      "station_nm": "신갈1리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 12,
+      "station_id": "230000716",
+      "station_nm": "신갈2리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 13,
+      "station_id": "230000714",
+      "station_nm": "신갈리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 14,
+      "station_id": "230000689",
+      "station_nm": "대포삼거리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 15,
+      "station_id": "230000691",
+      "station_nm": "대포동"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 16,
+      "station_id": "230000693",
+      "station_nm": "대포리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 17,
+      "station_id": "230001165",
+      "station_nm": "단월사거리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 18,
+      "station_id": "230000695",
+      "station_nm": "단월동"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 19,
+      "station_id": "230000697",
+      "station_nm": "이천태평교회앞"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 20,
+      "station_id": "230000699",
+      "station_nm": "단월초교"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 21,
+      "station_id": "230001166",
+      "station_nm": "단월동"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 22,
+      "station_id": "230001018",
+      "station_nm": "단월하수처리장앞"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 23,
+      "station_id": "230001515",
+      "station_nm": "고담동"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 24,
+      "station_id": "230000704",
+      "station_nm": "고담동"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 25,
+      "station_id": "230000956",
+      "station_nm": "농기계수리센터"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 26,
+      "station_id": "230000708",
+      "station_nm": "장록리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 27,
+      "station_id": "230001019",
+      "station_nm": "장록동"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 28,
+      "station_id": "230001020",
+      "station_nm": "장록동삼거리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 29,
+      "station_id": "230000712",
+      "station_nm": "가좌리태우빌라앞"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 30,
+      "station_id": "230000186",
+      "station_nm": "진리"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 31,
+      "station_id": "230001304",
+      "station_nm": "미란다호텔"
+    },
+    {
+      "route_nm": "26-11",
+      "sta_order": 32,
+      "station_id": "230000251",
+      "station_nm": "터미널신둔홈"
+    }
+  ],
+  "234001244": [
+    {
+      "route_nm": "9600",
+      "sta_order": 1,
+      "station_id": "219000706",
+      "station_nm": "위시티3.4단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 2,
+      "station_id": "219000704",
+      "station_nm": "위시티주상복합단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 3,
+      "station_id": "219000248",
+      "station_nm": "동국대병원사거리"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 4,
+      "station_id": "219000247",
+      "station_nm": "은행마을3단지.일산자이센트리지.일산자이더헤리티지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 5,
+      "station_id": "219000034",
+      "station_nm": "식사동"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 6,
+      "station_id": "218000117",
+      "station_nm": "고양시청.덕양구보건소"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 7,
+      "station_id": "218000066",
+      "station_nm": "고양시청"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 8,
+      "station_id": "218000065",
+      "station_nm": "원릉역"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 9,
+      "station_id": "218000501",
+      "station_nm": "성사고등학교"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 10,
+      "station_id": "218000503",
+      "station_nm": "원당대림아파트"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 11,
+      "station_id": "218000504",
+      "station_nm": "세창짜임아파트"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 12,
+      "station_id": "218000510",
+      "station_nm": "원당연세병원"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 13,
+      "station_id": "218000093",
+      "station_nm": "어울림마을7단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 14,
+      "station_id": "218000104",
+      "station_nm": "성사2동행정복지센터"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 15,
+      "station_id": "218000103",
+      "station_nm": "고양어울림누리.달빛마을1단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 16,
+      "station_id": "218000102",
+      "station_nm": "화정1동행정복지센터"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 17,
+      "station_id": "218000101",
+      "station_nm": "명지병원.달빛마을3단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 18,
+      "station_id": "218000100",
+      "station_nm": "화정동단독주택단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 19,
+      "station_id": "218000099",
+      "station_nm": "화정역.덕양구청"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 20,
+      "station_id": "218000014",
+      "station_nm": "별빛마을8단지.롯데마트"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 21,
+      "station_id": "218000013",
+      "station_nm": "고양경찰서앞.고양어린이박물관"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 22,
+      "station_id": "218000039",
+      "station_nm": "토당고가.별빛마을9단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 23,
+      "station_id": "218000018",
+      "station_nm": "능곡병원"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 24,
+      "station_id": "218000017",
+      "station_nm": "능곡중학교"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 25,
+      "station_id": "218000008",
+      "station_nm": "행주동행정복지센터.능곡전화국"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 26,
+      "station_id": "277103489",
+      "station_nm": "북로JC(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 27,
+      "station_id": "277104677",
+      "station_nm": "남고양IC(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 28,
+      "station_id": "277103428",
+      "station_nm": "가양대교북단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 29,
+      "station_id": "277104684",
+      "station_nm": "난지한강공원(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 30,
+      "station_id": "277103426",
+      "station_nm": "성산대교북단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 31,
+      "station_id": "277103491",
+      "station_nm": "양화대교북단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 32,
+      "station_id": "277103493",
+      "station_nm": "서강대교북단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 33,
+      "station_id": "277103495",
+      "station_nm": "마포대교북단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 34,
+      "station_id": "277103497",
+      "station_nm": "원효대교북단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 35,
+      "station_id": "277103499",
+      "station_nm": "한강대교북단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 36,
+      "station_id": "277103501",
+      "station_nm": "동작대교북단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 37,
+      "station_id": "277103503",
+      "station_nm": "반포대교북단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 38,
+      "station_id": "277103399",
+      "station_nm": "한남IC(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 39,
+      "station_id": "121000015",
+      "station_nm": "신사역.푸른저축은행(중)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 40,
+      "station_id": "121000013",
+      "station_nm": "논현역(중)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 41,
+      "station_id": "122000163",
+      "station_nm": "신논현역4번출구"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 42,
+      "station_id": "122000694",
+      "station_nm": "삼정호텔"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 43,
+      "station_id": "122000165",
+      "station_nm": "차병원"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 44,
+      "station_id": "122000179",
+      "station_nm": "역삼역6번출구"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 45,
+      "station_id": "122000745",
+      "station_nm": "강남역12번출구A"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 46,
+      "station_id": "122000616",
+      "station_nm": "신논현역"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 47,
+      "station_id": "277101814",
+      "station_nm": "교보타워사거리(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 48,
+      "station_id": "121000014",
+      "station_nm": "논현역(중)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 49,
+      "station_id": "121000016",
+      "station_nm": "신사역(중)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 50,
+      "station_id": "277103400",
+      "station_nm": "한남IC(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 51,
+      "station_id": "277103393",
+      "station_nm": "반포대교남단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 52,
+      "station_id": "277103395",
+      "station_nm": "동작대교남단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 53,
+      "station_id": "277103397",
+      "station_nm": "한강대교남단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 54,
+      "station_id": "277103408",
+      "station_nm": "여의상류IC(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 55,
+      "station_id": "277100138",
+      "station_nm": "서울교(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 56,
+      "station_id": "277103411",
+      "station_nm": "여의하류IC(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 57,
+      "station_id": "277103407",
+      "station_nm": "양화대교남단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 58,
+      "station_id": "277103405",
+      "station_nm": "성산대교남단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 59,
+      "station_id": "277103901",
+      "station_nm": "염창교(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 60,
+      "station_id": "277103402",
+      "station_nm": "가양대교남단(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 61,
+      "station_id": "277104624",
+      "station_nm": "양천고성지(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 62,
+      "station_id": "277103401",
+      "station_nm": "88JC(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 63,
+      "station_id": "277103488",
+      "station_nm": "행주IC(미정차)"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 64,
+      "station_id": "218000206",
+      "station_nm": "행주동행정복지센터.능곡전화국"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 65,
+      "station_id": "218000016",
+      "station_nm": "능곡중학교"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 66,
+      "station_id": "218000489",
+      "station_nm": "능곡병원"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 67,
+      "station_id": "218000234",
+      "station_nm": "토당고가.별빛마을9단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 68,
+      "station_id": "218000020",
+      "station_nm": "고양경찰서앞.고양어린이박물관"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 69,
+      "station_id": "218000019",
+      "station_nm": "화정역.롯데마트"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 70,
+      "station_id": "218000072",
+      "station_nm": "덕양구청"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 71,
+      "station_id": "218000071",
+      "station_nm": "화정동단독주택단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 72,
+      "station_id": "218000070",
+      "station_nm": "명지병원.은빛마을5단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 73,
+      "station_id": "218000069",
+      "station_nm": "화정1동행정복지센터"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 74,
+      "station_id": "218000068",
+      "station_nm": "고양어울림누리.달빛마을1단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 75,
+      "station_id": "218000067",
+      "station_nm": "성사2동행정복지센터"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 76,
+      "station_id": "218000092",
+      "station_nm": "어울림마을7단지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 77,
+      "station_id": "218000506",
+      "station_nm": "원당약국.원당시장정문"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 78,
+      "station_id": "218000505",
+      "station_nm": "동양쇼핑.원당시장후문"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 79,
+      "station_id": "218000502",
+      "station_nm": "원당래미안아파트"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 80,
+      "station_id": "218000107",
+      "station_nm": "원릉역"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 81,
+      "station_id": "218000105",
+      "station_nm": "고양시청"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 82,
+      "station_id": "218000112",
+      "station_nm": "고양시청.덕양구보건소"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 83,
+      "station_id": "219000244",
+      "station_nm": "식사삼거리.식사공단"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 84,
+      "station_id": "219000243",
+      "station_nm": "은행마을3단지.일산자이센트리지.일산자이더헤리티지"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 85,
+      "station_id": "219000054",
+      "station_nm": "동국대병원사거리"
+    },
+    {
+      "route_nm": "9600",
+      "sta_order": 86,
+      "station_id": "219000703",
+      "station_nm": "위시티주상복합단지"
+    }
+  ],
+  "234001516": [
+    {
+      "route_nm": "1113-2",
+      "sta_order": 1,
+      "station_id": "234001048",
+      "station_nm": "광주터미널"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 2,
+      "station_id": "234000283",
+      "station_nm": "광주터미널"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 3,
+      "station_id": "277101685",
+      "station_nm": "광주대로(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 4,
+      "station_id": "234000857",
+      "station_nm": "뉴광주농협주유소"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 5,
+      "station_id": "234000254",
+      "station_nm": "파발교"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 6,
+      "station_id": "234000253",
+      "station_nm": "파발교.최영일산부인과"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 7,
+      "station_id": "234000258",
+      "station_nm": "보건소.공설운동장"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 8,
+      "station_id": "234000266",
+      "station_nm": "광주시자원봉사센터입구"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 9,
+      "station_id": "234000265",
+      "station_nm": "파라다이스아파트"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 10,
+      "station_id": "234000264",
+      "station_nm": "송정초등학교"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 11,
+      "station_id": "234000281",
+      "station_nm": "밀목.광주시청앞"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 12,
+      "station_id": "234000280",
+      "station_nm": "밀목빌라단지"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 13,
+      "station_id": "234000603",
+      "station_nm": "밀목주유소.21세기자동차학원"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 14,
+      "station_id": "234000279",
+      "station_nm": "솔치마을"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 15,
+      "station_id": "234000278",
+      "station_nm": "번천초교.광주IC"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 16,
+      "station_id": "277103263",
+      "station_nm": "경기광주IC(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 17,
+      "station_id": "277102517",
+      "station_nm": "산곡JC(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 18,
+      "station_id": "277102818",
+      "station_nm": "동서울(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 19,
+      "station_id": "277102518",
+      "station_nm": "하남JC(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 20,
+      "station_id": "124000348",
+      "station_nm": "상일초등학교"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 21,
+      "station_id": "124000369",
+      "station_nm": "초이동(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 22,
+      "station_id": "124000360",
+      "station_nm": "강동자이.프라자아파트(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 23,
+      "station_id": "124000359",
+      "station_nm": "길동주민센터.둔촌2동주민센터(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 24,
+      "station_id": "124000358",
+      "station_nm": "길동사거리.강동세무서(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 25,
+      "station_id": "124000357",
+      "station_nm": "강동역(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 26,
+      "station_id": "124000453",
+      "station_nm": "천호역(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 27,
+      "station_id": "104000269",
+      "station_nm": "광진청소년센터"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 28,
+      "station_id": "277102674",
+      "station_nm": "천호대교북단(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 29,
+      "station_id": "277103309",
+      "station_nm": "올림픽대교북단(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 30,
+      "station_id": "104000069",
+      "station_nm": "테크노마트앞.강변역(D)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 31,
+      "station_id": "104000064",
+      "station_nm": "현대아파트앞"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 32,
+      "station_id": "104000074",
+      "station_nm": "광장동현대아파트앞"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 33,
+      "station_id": "277102303",
+      "station_nm": "광나루역(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 34,
+      "station_id": "277102304",
+      "station_nm": "천호대교남단(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 35,
+      "station_id": "124000454",
+      "station_nm": "천호역(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 36,
+      "station_id": "124000366",
+      "station_nm": "강동역(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 37,
+      "station_id": "124000365",
+      "station_nm": "길동사거리.강동세무서(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 38,
+      "station_id": "124000364",
+      "station_nm": "길동주민센터.둔촌2동주민센터(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 39,
+      "station_id": "124000363",
+      "station_nm": "강동자이.프라자아파트(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 40,
+      "station_id": "124000370",
+      "station_nm": "초이동(중)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 41,
+      "station_id": "124000356",
+      "station_nm": "상일초등학교"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 42,
+      "station_id": "277102817",
+      "station_nm": "동서울(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 43,
+      "station_id": "277103086",
+      "station_nm": "산곡JC(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 44,
+      "station_id": "234000275",
+      "station_nm": "번천초교.광주IC"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 45,
+      "station_id": "234000274",
+      "station_nm": "솔치마을"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 46,
+      "station_id": "277104324",
+      "station_nm": "회안대로(미정차)"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 47,
+      "station_id": "234000868",
+      "station_nm": "밀목빌라"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 48,
+      "station_id": "234000273",
+      "station_nm": "밀목.광주시청앞"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 49,
+      "station_id": "234000261",
+      "station_nm": "송정초등학교"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 50,
+      "station_id": "234000255",
+      "station_nm": "파라다이스아파트"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 51,
+      "station_id": "234000479",
+      "station_nm": "나산아파트"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 52,
+      "station_id": "234000259",
+      "station_nm": "보건소.공설운동장"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 53,
+      "station_id": "234000252",
+      "station_nm": "파발교.최영일산부인과"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 54,
+      "station_id": "234000251",
+      "station_nm": "뉴광주농협주유소"
+    },
+    {
+      "route_nm": "1113-2",
+      "sta_order": 55,
+      "station_id": "234000271",
+      "station_nm": "광주터미널.참조은병원앞"
+    }
+  ],
+  "234001609": [
+    {
+      "route_nm": "500-1A",
+      "sta_order": 1,
+      "station_id": "234000604",
+      "station_nm": "동원대학교"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 2,
+      "station_id": "277101661",
+      "station_nm": "동원대학교출발(미정차)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 3,
+      "station_id": "234000349",
+      "station_nm": "동원대학교.넋고개앞"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 4,
+      "station_id": "234000348",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 5,
+      "station_id": "234000347",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 6,
+      "station_id": "234000346",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 7,
+      "station_id": "234000345",
+      "station_nm": "수양3리마을입구"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 8,
+      "station_id": "234001068",
+      "station_nm": "이화전기"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 9,
+      "station_id": "234000344",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 10,
+      "station_id": "234000343",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 11,
+      "station_id": "234000673",
+      "station_nm": "곤지향어울림마당"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 12,
+      "station_id": "234000943",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 13,
+      "station_id": "234000089",
+      "station_nm": "곤지암초중고.곤지암농협건너"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 14,
+      "station_id": "234000342",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 15,
+      "station_id": "234000341",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 16,
+      "station_id": "234000340",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 17,
+      "station_id": "234000339",
+      "station_nm": "벽산.대주아파트.모다아울렛"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 18,
+      "station_id": "234000338",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 19,
+      "station_id": "234000337",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 20,
+      "station_id": "234000336",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 21,
+      "station_id": "234000335",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 22,
+      "station_id": "234000334",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 23,
+      "station_id": "234000333",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 24,
+      "station_id": "234000332",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 25,
+      "station_id": "234000643",
+      "station_nm": "쌍령동"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 26,
+      "station_id": "234000269",
+      "station_nm": "광주시축협"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 27,
+      "station_id": "234000268",
+      "station_nm": "경안동주민센터.우체국앞"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 28,
+      "station_id": "234000267",
+      "station_nm": "제일정형외과앞"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 29,
+      "station_id": "234000251",
+      "station_nm": "뉴광주농협주유소"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 30,
+      "station_id": "234000271",
+      "station_nm": "광주터미널.참조은병원앞"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 31,
+      "station_id": "234000270",
+      "station_nm": "역동사거리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 32,
+      "station_id": "234001077",
+      "station_nm": "역동"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 33,
+      "station_id": "234000330",
+      "station_nm": "경안장례식장.이편한세상광주역아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 34,
+      "station_id": "234000436",
+      "station_nm": "절골.장지동.미빙냉장"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 35,
+      "station_id": "234001004",
+      "station_nm": "장지동.조은교회앞"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 36,
+      "station_id": "234000435",
+      "station_nm": "중앙저수지.선광주유소"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 37,
+      "station_id": "234000434",
+      "station_nm": "임마누엘교회"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 38,
+      "station_id": "234000064",
+      "station_nm": "텃골.중대동"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 39,
+      "station_id": "234001169",
+      "station_nm": "삼동역육교"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 40,
+      "station_id": "234000063",
+      "station_nm": "삼동.갈마주유소"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 41,
+      "station_id": "277103681",
+      "station_nm": "갈현교차로(미정차)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 42,
+      "station_id": "205000078",
+      "station_nm": "갈현동"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 43,
+      "station_id": "205000074",
+      "station_nm": "섬마을"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 44,
+      "station_id": "205000069",
+      "station_nm": "모란역4번출구"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 45,
+      "station_id": "204000087",
+      "station_nm": "모란고개"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 46,
+      "station_id": "204000019",
+      "station_nm": "성남수정경찰서"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 47,
+      "station_id": "204000022",
+      "station_nm": "수진리고개.태평고개"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 48,
+      "station_id": "204000021",
+      "station_nm": "가천대역.가천대학교"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 49,
+      "station_id": "204000020",
+      "station_nm": "복우물.웃말입구"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 50,
+      "station_id": "204000227",
+      "station_nm": "복정파출소.복정캠퍼스맛집거리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 51,
+      "station_id": "204000116",
+      "station_nm": "동서울대학교"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 52,
+      "station_id": "204000115",
+      "station_nm": "복정초등학교"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 53,
+      "station_id": "204000114",
+      "station_nm": "복정동행정복지센터"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 54,
+      "station_id": "123000329",
+      "station_nm": "복정역2번출구"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 55,
+      "station_id": "123000015",
+      "station_nm": "장지역.가든파이브(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 56,
+      "station_id": "123000013",
+      "station_nm": "문정법조단지.건영아파트(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 57,
+      "station_id": "123000011",
+      "station_nm": "문정로데오거리입구(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 58,
+      "station_id": "123000009",
+      "station_nm": "가락시장.가락시장역(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 59,
+      "station_id": "123000007",
+      "station_nm": "송파역(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 60,
+      "station_id": "123000005",
+      "station_nm": "석촌역(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 61,
+      "station_id": "123000003",
+      "station_nm": "석촌호수.한솔병원(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 62,
+      "station_id": "277102839",
+      "station_nm": "석촌역교차로(미정차)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 63,
+      "station_id": "123000611",
+      "station_nm": "잠실광역환승센터"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 64,
+      "station_id": "277102843",
+      "station_nm": "잠실역환승센터출구(미정차)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 65,
+      "station_id": "123000004",
+      "station_nm": "석촌호수.한솔병원(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 66,
+      "station_id": "123000006",
+      "station_nm": "석촌역(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 67,
+      "station_id": "123000008",
+      "station_nm": "송파역(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 68,
+      "station_id": "123000010",
+      "station_nm": "가락시장.가락시장역(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 69,
+      "station_id": "123000012",
+      "station_nm": "문정로데오거리입구(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 70,
+      "station_id": "123000014",
+      "station_nm": "문정법조단지.건영아파트(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 71,
+      "station_id": "123000016",
+      "station_nm": "장지역.가든파이브(중)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 72,
+      "station_id": "204000113",
+      "station_nm": "복정동행정복지센터"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 73,
+      "station_id": "204000112",
+      "station_nm": "동서울대학교"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 74,
+      "station_id": "204000253",
+      "station_nm": "복정파출소.복정캠퍼스맛집거리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 75,
+      "station_id": "204000111",
+      "station_nm": "복우물.웃말입구"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 76,
+      "station_id": "204000110",
+      "station_nm": "가천대역.가천대학교"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 77,
+      "station_id": "204000023",
+      "station_nm": "수진리고개.태평고개"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 78,
+      "station_id": "204000011",
+      "station_nm": "성남수정경찰서앞"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 79,
+      "station_id": "204000088",
+      "station_nm": "모란고개"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 80,
+      "station_id": "205000207",
+      "station_nm": "모란역(광역.시외버스)"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 81,
+      "station_id": "205000073",
+      "station_nm": "섬마을"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 82,
+      "station_id": "205000079",
+      "station_nm": "갈현동"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 83,
+      "station_id": "205000267",
+      "station_nm": "성남시장례문화사업소.장례식장입구"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 84,
+      "station_id": "234000066",
+      "station_nm": "삼동.갈마주유소"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 85,
+      "station_id": "234001168",
+      "station_nm": "삼동역육교"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 86,
+      "station_id": "234000065",
+      "station_nm": "텃골.중대동"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 87,
+      "station_id": "234000439",
+      "station_nm": "중앙저수지.선광주유소"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 88,
+      "station_id": "234000438",
+      "station_nm": "중간말.오디벨로"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 89,
+      "station_id": "234000437",
+      "station_nm": "장지동.절골"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 90,
+      "station_id": "234000372",
+      "station_nm": "경안장례식장.이편한세상광주역아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 91,
+      "station_id": "234000269",
+      "station_nm": "광주시축협"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 92,
+      "station_id": "234000268",
+      "station_nm": "경안동주민센터.우체국앞"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 93,
+      "station_id": "234000267",
+      "station_nm": "제일정형외과앞"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 94,
+      "station_id": "234000251",
+      "station_nm": "뉴광주농협주유소"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 95,
+      "station_id": "234000271",
+      "station_nm": "광주터미널.참조은병원앞"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 96,
+      "station_id": "234000270",
+      "station_nm": "역동사거리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 97,
+      "station_id": "234000371",
+      "station_nm": "새광주주유소"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 98,
+      "station_id": "234000370",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 99,
+      "station_id": "234000369",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 100,
+      "station_id": "234000368",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 101,
+      "station_id": "234000366",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 102,
+      "station_id": "234000365",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 103,
+      "station_id": "234000364",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 104,
+      "station_id": "234000363",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 105,
+      "station_id": "234000362",
+      "station_nm": "벽산대주아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 106,
+      "station_id": "234000361",
+      "station_nm": "모다아울렛"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 107,
+      "station_id": "234000360",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 108,
+      "station_id": "234000359",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 109,
+      "station_id": "234000358",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 110,
+      "station_id": "234001005",
+      "station_nm": "곤지암초중고.소머리국밥.신협곤지암점"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 111,
+      "station_id": "234000357",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 112,
+      "station_id": "234000356",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 113,
+      "station_id": "234000355",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 114,
+      "station_id": "234001061",
+      "station_nm": "이화전기앞"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 115,
+      "station_id": "234000354",
+      "station_nm": "수양1리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 116,
+      "station_id": "234000353",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 117,
+      "station_id": "234000352",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 118,
+      "station_id": "234000351",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 119,
+      "station_id": "234000350",
+      "station_nm": "동원대학교앞"
+    },
+    {
+      "route_nm": "500-1A",
+      "sta_order": 120,
+      "station_id": "234000605",
+      "station_nm": "동원대학교"
+    }
+  ],
+  "234001694": [
+    {
+      "route_nm": "3201",
+      "sta_order": 1,
+      "station_id": "234001038",
+      "station_nm": "추자동차고지입구"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 2,
+      "station_id": "234001299",
+      "station_nm": "고산별빛초교.오포자이디오브"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 3,
+      "station_id": "234001278",
+      "station_nm": "금호베스트빌"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 4,
+      "station_id": "234001270",
+      "station_nm": "고산하늘초교.더샵센트리체"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 5,
+      "station_id": "234001272",
+      "station_nm": "더샵센트럴포레"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 6,
+      "station_id": "234001213",
+      "station_nm": "태전힐스테이트7지구"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 7,
+      "station_id": "234001214",
+      "station_nm": "한아람초등학교.태전이편한세상1차"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 8,
+      "station_id": "234001062",
+      "station_nm": "태전힐스테이트5지구"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 9,
+      "station_id": "234001226",
+      "station_nm": "태전이편한세상2차정문"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 10,
+      "station_id": "234000646",
+      "station_nm": "태전효성해링턴플레이스"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 11,
+      "station_id": "234000411",
+      "station_nm": "뗏골마을앞"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 12,
+      "station_id": "234000510",
+      "station_nm": "직동삼거리.광남화물"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 13,
+      "station_id": "277104431",
+      "station_nm": "광주직동IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 14,
+      "station_id": "277103730",
+      "station_nm": "섬말IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 15,
+      "station_id": "277104433",
+      "station_nm": "성남대원IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 16,
+      "station_id": "277104326",
+      "station_nm": "여수대로IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 17,
+      "station_id": "277104436",
+      "station_nm": "내곡터널진입(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 18,
+      "station_id": "277104327",
+      "station_nm": "내곡IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 19,
+      "station_id": "277103725",
+      "station_nm": "염곡IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 20,
+      "station_id": "121000004",
+      "station_nm": "양재역.서초문화예술회관(중)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 21,
+      "station_id": "277101814",
+      "station_nm": "교보타워사거리(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 22,
+      "station_id": "277103400",
+      "station_nm": "한남IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 23,
+      "station_id": "277104182",
+      "station_nm": "한남대교북단(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 24,
+      "station_id": "102000069",
+      "station_nm": "순천향대학병원"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 25,
+      "station_id": "277104180",
+      "station_nm": "한남1고가차도(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 26,
+      "station_id": "277104186",
+      "station_nm": "남산1호터널TG(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 27,
+      "station_id": "101000002",
+      "station_nm": "국가인권위.안중근활동터(중)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 28,
+      "station_id": "101000059",
+      "station_nm": "을지로2가.기업은행본점.서울노동청"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 29,
+      "station_id": "101000303",
+      "station_nm": "서울시청"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 30,
+      "station_id": "277104283",
+      "station_nm": "시청교차로(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 31,
+      "station_id": "101000128",
+      "station_nm": "신한은행본점"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 32,
+      "station_id": "101000005",
+      "station_nm": "서울역버스환승센터(5번승강장)(중)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 33,
+      "station_id": "277101742",
+      "station_nm": "서울역교차로(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 34,
+      "station_id": "277102115",
+      "station_nm": "숭례문교차로(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 35,
+      "station_id": "277102114",
+      "station_nm": "남대문로3가(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 36,
+      "station_id": "101000148",
+      "station_nm": "명동입구"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 37,
+      "station_id": "101000001",
+      "station_nm": "남대문세무서(중)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 38,
+      "station_id": "277104824",
+      "station_nm": "퇴계로2가교차로(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 39,
+      "station_id": "277104181",
+      "station_nm": "남산1호터널TG(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 40,
+      "station_id": "277104179",
+      "station_nm": "한남1고가차도진입(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 41,
+      "station_id": "102000070",
+      "station_nm": "순천향대학병원"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 42,
+      "station_id": "277103399",
+      "station_nm": "한남IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 43,
+      "station_id": "277103392",
+      "station_nm": "반포IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 44,
+      "station_id": "277103389",
+      "station_nm": "서초IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 45,
+      "station_id": "121000969",
+      "station_nm": "양재역엘타워빌딩"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 46,
+      "station_id": "277103726",
+      "station_nm": "염곡IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 47,
+      "station_id": "277104435",
+      "station_nm": "내곡터널진입(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 48,
+      "station_id": "277104653",
+      "station_nm": "고등IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 49,
+      "station_id": "277104439",
+      "station_nm": "여수대로IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 50,
+      "station_id": "277104434",
+      "station_nm": "성남대원IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 51,
+      "station_id": "277103729",
+      "station_nm": "섬말IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 52,
+      "station_id": "277104432",
+      "station_nm": "광주직동IC(미정차)"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 53,
+      "station_id": "234000511",
+      "station_nm": "직동삼거리.광남화물"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 54,
+      "station_id": "234000410",
+      "station_nm": "뗏골마을앞"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 55,
+      "station_id": "234000944",
+      "station_nm": "태전효성해링턴플레이스"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 56,
+      "station_id": "234000405",
+      "station_nm": "태전이편한세상2차정문"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 57,
+      "station_id": "234001097",
+      "station_nm": "태전힐스테이트5지구"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 58,
+      "station_id": "234001209",
+      "station_nm": "한아람초등학교"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 59,
+      "station_id": "234001210",
+      "station_nm": "태전힐스테이트7지구"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 60,
+      "station_id": "234001273",
+      "station_nm": "더샵센트럴포레"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 61,
+      "station_id": "234001271",
+      "station_nm": "고산하늘초교.더샵센트리체"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 62,
+      "station_id": "234001279",
+      "station_nm": "금호베스트빌"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 63,
+      "station_id": "234001298",
+      "station_nm": "고산별빛초교.오포자이디오브"
+    },
+    {
+      "route_nm": "3201",
+      "sta_order": 64,
+      "station_id": "234001266",
+      "station_nm": "HY인터내셔널"
+    }
+  ],
+  "234001695": [
+    {
+      "route_nm": "G3202",
+      "sta_order": 1,
+      "station_id": "234001038",
+      "station_nm": "추자동차고지입구"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 2,
+      "station_id": "234001299",
+      "station_nm": "고산별빛초교.오포자이디오브"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 3,
+      "station_id": "234001278",
+      "station_nm": "금호베스트빌"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 4,
+      "station_id": "234001270",
+      "station_nm": "고산하늘초교.더샵센트리체"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 5,
+      "station_id": "234001213",
+      "station_nm": "태전힐스테이트7지구"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 6,
+      "station_id": "234001201",
+      "station_nm": "태전아이파크.태성초.태전힐스5지구"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 7,
+      "station_id": "234001215",
+      "station_nm": "태전동성원아파트"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 8,
+      "station_id": "234000646",
+      "station_nm": "태전효성해링턴플레이스"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 9,
+      "station_id": "277104431",
+      "station_nm": "광주직동IC(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 10,
+      "station_id": "277103730",
+      "station_nm": "섬말IC(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 11,
+      "station_id": "277104433",
+      "station_nm": "성남대원IC(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 12,
+      "station_id": "277104326",
+      "station_nm": "여수대로IC(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 13,
+      "station_id": "277104436",
+      "station_nm": "내곡터널진입(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 14,
+      "station_id": "277104327",
+      "station_nm": "내곡IC(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 15,
+      "station_id": "277104437",
+      "station_nm": "구룡초교교차로(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 16,
+      "station_id": "122000223",
+      "station_nm": "군인공제회관"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 17,
+      "station_id": "122000117",
+      "station_nm": "중대부고"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 18,
+      "station_id": "122000149",
+      "station_nm": "한티역"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 19,
+      "station_id": "122000156",
+      "station_nm": "선릉역"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 20,
+      "station_id": "122000099",
+      "station_nm": "포스코사거리"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 21,
+      "station_id": "122000100",
+      "station_nm": "한별구립어린이집"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 22,
+      "station_id": "122000088",
+      "station_nm": "봉은사.코엑스북문"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 23,
+      "station_id": "122000095",
+      "station_nm": "무역센터"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 24,
+      "station_id": "122000096",
+      "station_nm": "무역센터"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 25,
+      "station_id": "122000098",
+      "station_nm": "한국무역센터.삼성역"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 26,
+      "station_id": "122000114",
+      "station_nm": "포스코건너편"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 27,
+      "station_id": "122000645",
+      "station_nm": "선릉역"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 28,
+      "station_id": "122000205",
+      "station_nm": "한티역"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 29,
+      "station_id": "122000229",
+      "station_nm": "중대부고앞"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 30,
+      "station_id": "122000225",
+      "station_nm": "숙명여고"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 31,
+      "station_id": "277104435",
+      "station_nm": "내곡터널진입(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 32,
+      "station_id": "277104653",
+      "station_nm": "고등IC(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 33,
+      "station_id": "277104439",
+      "station_nm": "여수대로IC(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 34,
+      "station_id": "277104434",
+      "station_nm": "성남대원IC(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 35,
+      "station_id": "277103729",
+      "station_nm": "섬말IC(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 36,
+      "station_id": "277104432",
+      "station_nm": "광주직동IC(미정차)"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 37,
+      "station_id": "234000944",
+      "station_nm": "태전효성해링턴플레이스"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 38,
+      "station_id": "234001206",
+      "station_nm": "태전동성원아파트"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 39,
+      "station_id": "234001195",
+      "station_nm": "태전아이파크.태성초.태전힐스5지구"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 40,
+      "station_id": "234001210",
+      "station_nm": "태전힐스테이트7지구"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 41,
+      "station_id": "234001271",
+      "station_nm": "고산하늘초교.더샵센트리체"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 42,
+      "station_id": "234001279",
+      "station_nm": "금호베스트빌"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 43,
+      "station_id": "234001298",
+      "station_nm": "고산별빛초교.오포자이디오브"
+    },
+    {
+      "route_nm": "G3202",
+      "sta_order": 44,
+      "station_id": "234001266",
+      "station_nm": "HY인터내셔널"
+    }
+  ],
+  "234001705": [
+    {
+      "route_nm": "3800",
+      "sta_order": 1,
+      "station_id": "234000148",
+      "station_nm": "관음3교"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 2,
+      "station_id": "234000614",
+      "station_nm": "풍경마을앞"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 3,
+      "station_id": "234001041",
+      "station_nm": "주목마을"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 4,
+      "station_id": "234000147",
+      "station_nm": "관음2리마을회관"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 5,
+      "station_id": "234000146",
+      "station_nm": "교회앞"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 6,
+      "station_id": "234000145",
+      "station_nm": "삼환아트빌라"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 7,
+      "station_id": "234000903",
+      "station_nm": "파크빌리지"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 8,
+      "station_id": "234000144",
+      "station_nm": "관음1리.새마을슈퍼"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 9,
+      "station_id": "234000675",
+      "station_nm": "도수마을회관"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 10,
+      "station_id": "234000143",
+      "station_nm": "도수초교"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 11,
+      "station_id": "234000141",
+      "station_nm": "퇴촌농협"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 12,
+      "station_id": "234000124",
+      "station_nm": "퇴촌면사무소"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 13,
+      "station_id": "234001208",
+      "station_nm": "경안천습지생태공원"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 14,
+      "station_id": "234000123",
+      "station_nm": "정지1리.토마토마을건너"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 15,
+      "station_id": "234000122",
+      "station_nm": "정지2리"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 16,
+      "station_id": "234000121",
+      "station_nm": "나눔의집"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 17,
+      "station_id": "234001043",
+      "station_nm": "무갑삼거리"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 18,
+      "station_id": "234000181",
+      "station_nm": "세광아파트"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 19,
+      "station_id": "234000663",
+      "station_nm": "지월3리마을회관입구"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 20,
+      "station_id": "234001219",
+      "station_nm": "송정동.금강아파트"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 21,
+      "station_id": "234000180",
+      "station_nm": "브라운스톤아파트"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 22,
+      "station_id": "234001065",
+      "station_nm": "우림필유"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 23,
+      "station_id": "234001020",
+      "station_nm": "광주고입구"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 24,
+      "station_id": "234000271",
+      "station_nm": "광주터미널.참조은병원앞"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 25,
+      "station_id": "234000330",
+      "station_nm": "경안장례식장.이편한세상광주역아파트"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 26,
+      "station_id": "277103939",
+      "station_nm": "장지IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 27,
+      "station_id": "277104444",
+      "station_nm": "광주직동IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 28,
+      "station_id": "277103730",
+      "station_nm": "섬말IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 29,
+      "station_id": "277104433",
+      "station_nm": "성남대원IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 30,
+      "station_id": "277104326",
+      "station_nm": "여수대로IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 31,
+      "station_id": "277104436",
+      "station_nm": "내곡터널진입(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 32,
+      "station_id": "277104327",
+      "station_nm": "내곡IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 33,
+      "station_id": "277103725",
+      "station_nm": "염곡IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 34,
+      "station_id": "121001343",
+      "station_nm": "매헌시민의숲(중)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 35,
+      "station_id": "121000002",
+      "station_nm": "말죽거리공원사거리(중)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 36,
+      "station_id": "121000004",
+      "station_nm": "양재역.서초문화예술회관(중)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 37,
+      "station_id": "277104591",
+      "station_nm": "양재역사거리(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 38,
+      "station_id": "277104592",
+      "station_nm": "서초IC양재역방면(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 39,
+      "station_id": "121000969",
+      "station_nm": "양재역엘타워빌딩"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 40,
+      "station_id": "277104385",
+      "station_nm": "교육개발원입구교차로(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 41,
+      "station_id": "121001344",
+      "station_nm": "매헌시민의숲(중)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 42,
+      "station_id": "277103726",
+      "station_nm": "염곡IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 43,
+      "station_id": "277104435",
+      "station_nm": "내곡터널진입(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 44,
+      "station_id": "277104653",
+      "station_nm": "고등IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 45,
+      "station_id": "277104439",
+      "station_nm": "여수대로IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 46,
+      "station_id": "277101624",
+      "station_nm": "성남시청교차로(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 47,
+      "station_id": "277104434",
+      "station_nm": "성남대원IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 48,
+      "station_id": "277103729",
+      "station_nm": "섬말IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 49,
+      "station_id": "277104445",
+      "station_nm": "광주직동IC(미정차)"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 50,
+      "station_id": "234000372",
+      "station_nm": "경안장례식장.이편한세상광주역아파트"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 51,
+      "station_id": "234000283",
+      "station_nm": "광주터미널"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 52,
+      "station_id": "234000232",
+      "station_nm": "광주고입구"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 53,
+      "station_id": "234001064",
+      "station_nm": "우림필유"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 54,
+      "station_id": "234000179",
+      "station_nm": "브라운스톤아파트"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 55,
+      "station_id": "234001177",
+      "station_nm": "금강펜테리움아파트"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 56,
+      "station_id": "234001046",
+      "station_nm": "지월3리마을회관입구"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 57,
+      "station_id": "234000182",
+      "station_nm": "세광아파트"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 58,
+      "station_id": "234000974",
+      "station_nm": "무갑삼거리"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 59,
+      "station_id": "234000106",
+      "station_nm": "나눔의집"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 60,
+      "station_id": "234000105",
+      "station_nm": "정지2리"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 61,
+      "station_id": "234000104",
+      "station_nm": "정지1리.토마토마을"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 62,
+      "station_id": "234001207",
+      "station_nm": "경안천습지생태공원"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 63,
+      "station_id": "234000103",
+      "station_nm": "퇴촌면사무소"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 64,
+      "station_id": "234000164",
+      "station_nm": "퇴촌농협"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 65,
+      "station_id": "234000163",
+      "station_nm": "도수초교"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 66,
+      "station_id": "234000674",
+      "station_nm": "도수마을회관"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 67,
+      "station_id": "234000162",
+      "station_nm": "관음1리.새마을슈퍼"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 68,
+      "station_id": "234000904",
+      "station_nm": "파크빌리지"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 69,
+      "station_id": "234000161",
+      "station_nm": "삼환아트빌라"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 70,
+      "station_id": "234000615",
+      "station_nm": "교회앞"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 71,
+      "station_id": "234000160",
+      "station_nm": "관음2리마을회관"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 72,
+      "station_id": "234001042",
+      "station_nm": "주목마을"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 73,
+      "station_id": "234000159",
+      "station_nm": "풍경마을건너"
+    },
+    {
+      "route_nm": "3800",
+      "sta_order": 74,
+      "station_id": "234000913",
+      "station_nm": "관음3교"
+    }
+  ],
+  "234001736": [
+    {
+      "route_nm": "3302",
+      "sta_order": 1,
+      "station_id": "234001276",
+      "station_nm": "고산2통마을회관.오포자이디오브"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 2,
+      "station_id": "234001278",
+      "station_nm": "금호베스트빌"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 3,
+      "station_id": "234001270",
+      "station_nm": "고산하늘초교.더샵센트리체"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 4,
+      "station_id": "234001272",
+      "station_nm": "더샵센트럴포레"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 5,
+      "station_id": "234001211",
+      "station_nm": "태전힐스테이트6지구"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 6,
+      "station_id": "234000189",
+      "station_nm": "태전힐스테이트7.9단지"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 7,
+      "station_id": "234001196",
+      "station_nm": "e편한세상1차.태전파크자이.힐스테이트"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 8,
+      "station_id": "234000384",
+      "station_nm": "쌍용아파트.태전지웰.광남고후문"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 9,
+      "station_id": "277104444",
+      "station_nm": "광주직동IC(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 10,
+      "station_id": "277103730",
+      "station_nm": "섬말IC(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 11,
+      "station_id": "205000069",
+      "station_nm": "모란역4번출구"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 12,
+      "station_id": "277104601",
+      "station_nm": "태평역사거리(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 13,
+      "station_id": "277104607",
+      "station_nm": "가천대(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 14,
+      "station_id": "277104604",
+      "station_nm": "동서울대(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 15,
+      "station_id": "277104325",
+      "station_nm": "복정역교차로(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 16,
+      "station_id": "123000015",
+      "station_nm": "장지역.가든파이브(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 17,
+      "station_id": "123000013",
+      "station_nm": "문정법조단지.건영아파트(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 18,
+      "station_id": "123000011",
+      "station_nm": "문정로데오거리입구(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 19,
+      "station_id": "123000009",
+      "station_nm": "가락시장.가락시장역(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 20,
+      "station_id": "123000007",
+      "station_nm": "송파역(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 21,
+      "station_id": "123000005",
+      "station_nm": "석촌역(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 22,
+      "station_id": "123000003",
+      "station_nm": "석촌호수.한솔병원(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 23,
+      "station_id": "277102839",
+      "station_nm": "석촌역교차로(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 24,
+      "station_id": "123000045",
+      "station_nm": "잠실역1번.11번출구"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 25,
+      "station_id": "277101832",
+      "station_nm": "올림픽공원교차로(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 26,
+      "station_id": "123000041",
+      "station_nm": "잠실중학교.장미종합상가"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 27,
+      "station_id": "123000002",
+      "station_nm": "잠실역.잠실대교남단(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 28,
+      "station_id": "277101950",
+      "station_nm": "석촌호수앞(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 29,
+      "station_id": "123000004",
+      "station_nm": "석촌호수.한솔병원(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 30,
+      "station_id": "123000006",
+      "station_nm": "석촌역(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 31,
+      "station_id": "123000008",
+      "station_nm": "송파역(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 32,
+      "station_id": "123000010",
+      "station_nm": "가락시장.가락시장역(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 33,
+      "station_id": "123000012",
+      "station_nm": "문정로데오거리입구(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 34,
+      "station_id": "123000014",
+      "station_nm": "문정법조단지.건영아파트(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 35,
+      "station_id": "123000016",
+      "station_nm": "장지역.가든파이브(중)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 36,
+      "station_id": "277104603",
+      "station_nm": "복정역교차로(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 37,
+      "station_id": "277104605",
+      "station_nm": "동서울대(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 38,
+      "station_id": "277104606",
+      "station_nm": "가천대(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 39,
+      "station_id": "277104602",
+      "station_nm": "태평역사거리(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 40,
+      "station_id": "205000207",
+      "station_nm": "모란역(광역.시외버스)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 41,
+      "station_id": "277103729",
+      "station_nm": "섬말IC(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 42,
+      "station_id": "277104445",
+      "station_nm": "광주직동IC(미정차)"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 43,
+      "station_id": "234001294",
+      "station_nm": "광주청소년수련관건너"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 44,
+      "station_id": "234001137",
+      "station_nm": "태전큰별공원"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 45,
+      "station_id": "234001200",
+      "station_nm": "e편한세상1차.태전파크자이.힐스테이트"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 46,
+      "station_id": "234000221",
+      "station_nm": "태전힐스테이트7.9단지"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 47,
+      "station_id": "234001212",
+      "station_nm": "태전힐스테이트6지구"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 48,
+      "station_id": "234001273",
+      "station_nm": "더샵센트럴포레"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 49,
+      "station_id": "234001271",
+      "station_nm": "고산하늘초교.더샵센트리체"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 50,
+      "station_id": "234001279",
+      "station_nm": "금호베스트빌"
+    },
+    {
+      "route_nm": "3302",
+      "sta_order": 51,
+      "station_id": "234001277",
+      "station_nm": "고산2통마을회관.오포자이디오브"
+    }
+  ],
+  "234001738": [
+    {
+      "route_nm": "500-2N",
+      "sta_order": 1,
+      "station_id": "234000604",
+      "station_nm": "동원대학교"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 2,
+      "station_id": "277101661",
+      "station_nm": "동원대학교출발(미정차)"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 3,
+      "station_id": "234000349",
+      "station_nm": "동원대학교.넋고개앞"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 4,
+      "station_id": "234000348",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 5,
+      "station_id": "234000347",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 6,
+      "station_id": "234000346",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 7,
+      "station_id": "234000345",
+      "station_nm": "수양3리마을입구"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 8,
+      "station_id": "234001068",
+      "station_nm": "이화전기"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 9,
+      "station_id": "234000344",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 10,
+      "station_id": "234000343",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 11,
+      "station_id": "234000673",
+      "station_nm": "곤지향어울림마당"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 12,
+      "station_id": "234000943",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 13,
+      "station_id": "234000089",
+      "station_nm": "곤지암초중고.곤지암농협건너"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 14,
+      "station_id": "234000342",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 15,
+      "station_id": "234000341",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 16,
+      "station_id": "234000340",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 17,
+      "station_id": "234000339",
+      "station_nm": "벽산.대주아파트.모다아울렛"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 18,
+      "station_id": "234000338",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 19,
+      "station_id": "234000337",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 20,
+      "station_id": "234000336",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 21,
+      "station_id": "234000335",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 22,
+      "station_id": "234000334",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 23,
+      "station_id": "234000333",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 24,
+      "station_id": "234000332",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 25,
+      "station_id": "234000331",
+      "station_nm": "쌍령동"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 26,
+      "station_id": "277103685",
+      "station_nm": "광주IC(미정차)"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 27,
+      "station_id": "234001077",
+      "station_nm": "역동"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 28,
+      "station_id": "234000330",
+      "station_nm": "경안장례식장.이편한세상광주역아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 29,
+      "station_id": "234000436",
+      "station_nm": "절골.장지동.미빙냉장"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 30,
+      "station_id": "234001004",
+      "station_nm": "장지동.조은교회앞"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 31,
+      "station_id": "234000435",
+      "station_nm": "중앙저수지.선광주유소"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 32,
+      "station_id": "234000434",
+      "station_nm": "임마누엘교회"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 33,
+      "station_id": "234000064",
+      "station_nm": "텃골.중대동"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 34,
+      "station_id": "234001169",
+      "station_nm": "삼동역육교"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 35,
+      "station_id": "234000063",
+      "station_nm": "삼동.갈마주유소"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 36,
+      "station_id": "277103681",
+      "station_nm": "갈현교차로(미정차)"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 37,
+      "station_id": "205000078",
+      "station_nm": "갈현동"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 38,
+      "station_id": "205000074",
+      "station_nm": "섬마을"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 39,
+      "station_id": "205000069",
+      "station_nm": "모란역4번출구"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 40,
+      "station_id": "204000087",
+      "station_nm": "모란고개"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 41,
+      "station_id": "204000019",
+      "station_nm": "성남수정경찰서"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 42,
+      "station_id": "204000022",
+      "station_nm": "수진리고개.태평고개"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 43,
+      "station_id": "204000021",
+      "station_nm": "가천대역.가천대학교"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 44,
+      "station_id": "204000020",
+      "station_nm": "복우물.웃말입구"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 45,
+      "station_id": "204000227",
+      "station_nm": "복정파출소.복정캠퍼스맛집거리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 46,
+      "station_id": "204000116",
+      "station_nm": "동서울대학교"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 47,
+      "station_id": "204000115",
+      "station_nm": "복정초등학교"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 48,
+      "station_id": "204000114",
+      "station_nm": "복정동행정복지센터"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 49,
+      "station_id": "123000343",
+      "station_nm": "복정역3번출구"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 50,
+      "station_id": "122000312",
+      "station_nm": "삼일자동차학원.강남자동차검사소"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 51,
+      "station_id": "122000313",
+      "station_nm": "광연자동차학원앞"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 52,
+      "station_id": "122000315",
+      "station_nm": "세곡동사거리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 53,
+      "station_id": "122000316",
+      "station_nm": "방죽마을"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 54,
+      "station_id": "122000317",
+      "station_nm": "래미안포레아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 55,
+      "station_id": "122000718",
+      "station_nm": "고속철도수서역"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 56,
+      "station_id": "122000295",
+      "station_nm": "수서역"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 57,
+      "station_id": "122000398",
+      "station_nm": "코원에너지서비스"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 58,
+      "station_id": "122000643",
+      "station_nm": "학여울역"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 59,
+      "station_id": "122000137",
+      "station_nm": "쌍용아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 60,
+      "station_id": "122000388",
+      "station_nm": "새마을운동중앙회"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 61,
+      "station_id": "122000386",
+      "station_nm": "총회회관.휘문고입구"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 62,
+      "station_id": "122000098",
+      "station_nm": "한국무역센터.삼성역"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 63,
+      "station_id": "122000099",
+      "station_nm": "포스코사거리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 64,
+      "station_id": "122000100",
+      "station_nm": "한별구립어린이집"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 65,
+      "station_id": "122000088",
+      "station_nm": "봉은사.코엑스북문"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 66,
+      "station_id": "122000095",
+      "station_nm": "무역센터"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 67,
+      "station_id": "122000096",
+      "station_nm": "무역센터"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 68,
+      "station_id": "122000330",
+      "station_nm": "삼성역3번출구"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 69,
+      "station_id": "122000142",
+      "station_nm": "휘문고교사거리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 70,
+      "station_id": "122000133",
+      "station_nm": "대치동은마아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 71,
+      "station_id": "122000644",
+      "station_nm": "학여울역"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 72,
+      "station_id": "122000397",
+      "station_nm": "코원에너지서비스"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 73,
+      "station_id": "122000747",
+      "station_nm": "수서역6번출구"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 74,
+      "station_id": "122000717",
+      "station_nm": "고속철도수서역"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 75,
+      "station_id": "122000320",
+      "station_nm": "래미안포레아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 76,
+      "station_id": "122000321",
+      "station_nm": "방죽마을"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 77,
+      "station_id": "122000304",
+      "station_nm": "세곡동주민센터"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 78,
+      "station_id": "122000309",
+      "station_nm": "세곡동"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 79,
+      "station_id": "122000310",
+      "station_nm": "광연자동차학원앞"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 80,
+      "station_id": "122000311",
+      "station_nm": "삼일자동차학원.강남자동차검사소"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 81,
+      "station_id": "123000319",
+      "station_nm": "복정역"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 82,
+      "station_id": "123000249",
+      "station_nm": "장지동"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 83,
+      "station_id": "204000113",
+      "station_nm": "복정동행정복지센터"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 84,
+      "station_id": "204000112",
+      "station_nm": "동서울대학교"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 85,
+      "station_id": "204000253",
+      "station_nm": "복정파출소.복정캠퍼스맛집거리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 86,
+      "station_id": "204000111",
+      "station_nm": "복우물.웃말입구"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 87,
+      "station_id": "204000110",
+      "station_nm": "가천대역.가천대학교"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 88,
+      "station_id": "204000023",
+      "station_nm": "수진리고개.태평고개"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 89,
+      "station_id": "204000011",
+      "station_nm": "성남수정경찰서앞"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 90,
+      "station_id": "204000088",
+      "station_nm": "모란고개"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 91,
+      "station_id": "205000207",
+      "station_nm": "모란역(광역.시외버스)"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 92,
+      "station_id": "205000073",
+      "station_nm": "섬마을"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 93,
+      "station_id": "205000079",
+      "station_nm": "갈현동"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 94,
+      "station_id": "205000267",
+      "station_nm": "성남시장례문화사업소.장례식장입구"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 95,
+      "station_id": "234000066",
+      "station_nm": "삼동.갈마주유소"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 96,
+      "station_id": "234001168",
+      "station_nm": "삼동역육교"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 97,
+      "station_id": "234000065",
+      "station_nm": "텃골.중대동"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 98,
+      "station_id": "234000439",
+      "station_nm": "중앙저수지.선광주유소"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 99,
+      "station_id": "234000438",
+      "station_nm": "중간말.오디벨로"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 100,
+      "station_id": "234000437",
+      "station_nm": "장지동.절골"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 101,
+      "station_id": "234000372",
+      "station_nm": "경안장례식장.이편한세상광주역아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 102,
+      "station_id": "277103686",
+      "station_nm": "광주IC(미정차)"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 103,
+      "station_id": "234000371",
+      "station_nm": "새광주주유소"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 104,
+      "station_id": "234000370",
+      "station_nm": "쌍령동.김촌말.센트럴푸르지오아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 105,
+      "station_id": "234000369",
+      "station_nm": "동성.현대아파트.대광로제비앙아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 106,
+      "station_id": "234000368",
+      "station_nm": "도평리.우림.신일.대주아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 107,
+      "station_id": "234000366",
+      "station_nm": "초월읍행정복지센터.초월도서관입구"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 108,
+      "station_id": "234000365",
+      "station_nm": "소쌍.동광.e편한세상.모아미래도"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 109,
+      "station_id": "234000364",
+      "station_nm": "초월역.롯데아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 110,
+      "station_id": "234000363",
+      "station_nm": "쌍동리경기주유소.광주하남예비군훈련장"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 111,
+      "station_id": "234000362",
+      "station_nm": "벽산대주아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 112,
+      "station_id": "234000361",
+      "station_nm": "모다아울렛"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 113,
+      "station_id": "234000360",
+      "station_nm": "빙그레.코아루아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 114,
+      "station_id": "234000359",
+      "station_nm": "삼리.킴스빌리지.현진에버빌아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 115,
+      "station_id": "234000358",
+      "station_nm": "도자박물관.친환경농산물유통센터.경기도농수산진흥원.팀업캠퍼스"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 116,
+      "station_id": "234001005",
+      "station_nm": "곤지암초중고.소머리국밥.신협곤지암점"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 117,
+      "station_id": "234000357",
+      "station_nm": "곤지암도서관"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 118,
+      "station_id": "234000356",
+      "station_nm": "곤지암LG아파트"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 119,
+      "station_id": "234000355",
+      "station_nm": "묵방리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 120,
+      "station_id": "234001061",
+      "station_nm": "이화전기앞"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 121,
+      "station_id": "234000354",
+      "station_nm": "수양1리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 122,
+      "station_id": "234000353",
+      "station_nm": "수양2리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 123,
+      "station_id": "234000352",
+      "station_nm": "수양4리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 124,
+      "station_id": "234000351",
+      "station_nm": "신촌리"
+    },
+    {
+      "route_nm": "500-2N",
+      "sta_order": 125,
+      "station_id": "234000605",
+      "station_nm": "동원대학교"
+    }
+  ],
+  "234001743": [
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 1,
+      "station_id": "234000454",
+      "station_nm": "광명초등학교"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 2,
+      "station_id": "234000453",
+      "station_nm": "신현동행정복지센터"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 3,
+      "station_id": "234000452",
+      "station_nm": "현대모닝사이드1차아파트.새마을입구.신현리"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 4,
+      "station_id": "234000256",
+      "station_nm": "율동공원라폴리움"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 5,
+      "station_id": "234000451",
+      "station_nm": "태재고개"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 6,
+      "station_id": "234001056",
+      "station_nm": "e편한세상"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 7,
+      "station_id": "121000054",
+      "station_nm": "서초구청"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 8,
+      "station_id": "121000213",
+      "station_nm": "양재역"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 9,
+      "station_id": "121000215",
+      "station_nm": "말죽거리공원사거리"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 10,
+      "station_id": "121000220",
+      "station_nm": "매헌시민의숲.양재꽃시장"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 11,
+      "station_id": "234001054",
+      "station_nm": "e편한세상"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 12,
+      "station_id": "234000458",
+      "station_nm": "태재고개"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 13,
+      "station_id": "234000457",
+      "station_nm": "현대모닝사이드1차아파트.새마을입구.신현리"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 14,
+      "station_id": "234000456",
+      "station_nm": "신현동행정복지센터"
+    },
+    {
+      "route_nm": "신현양재MDRT",
+      "sta_order": 15,
+      "station_id": "234000455",
+      "station_nm": "광명초등학교"
+    }
+  ]
+}
